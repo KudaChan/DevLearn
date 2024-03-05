@@ -1,0 +1,14 @@
+D:\Language\csharp\learning_project\bin\Debug\net8.0\learning_project.exe
+D:\Language\csharp\learning_project\bin\Debug\net8.0\learning_project.deps.json
+D:\Language\csharp\learning_project\bin\Debug\net8.0\learning_project.runtimeconfig.json
+D:\Language\csharp\learning_project\bin\Debug\net8.0\learning_project.dll
+D:\Language\csharp\learning_project\bin\Debug\net8.0\learning_project.pdb
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.AssemblyInfoInputs.cache
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.AssemblyInfo.cs
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.csproj.CoreCompileInputs.cache
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.dll
+D:\Language\csharp\learning_project\obj\Debug\net8.0\refint\learning_project.dll
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.pdb
+D:\Language\csharp\learning_project\obj\Debug\net8.0\learning_project.genruntimeconfig.cache
+D:\Language\csharp\learning_project\obj\Debug\net8.0\ref\learning_project.dll
