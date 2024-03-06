@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter01\HelloCs\bin\Debug\net8.0\HelloCs.exe
+D:\DevLang\C_Sharp\Chapter01\HelloCs\bin\Debug\net8.0\HelloCs.deps.json
+D:\DevLang\C_Sharp\Chapter01\HelloCs\bin\Debug\net8.0\HelloCs.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter01\HelloCs\bin\Debug\net8.0\HelloCs.dll
+D:\DevLang\C_Sharp\Chapter01\HelloCs\bin\Debug\net8.0\HelloCs.pdb
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.sourcelink.json
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.dll
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\refint\HelloCs.dll
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.pdb
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\HelloCs.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter01\HelloCs\obj\Debug\net8.0\ref\HelloCs.dll

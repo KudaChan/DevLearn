@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter02\Variable\bin\Debug\net8.0\Variable.exe
+D:\DevLang\C_Sharp\Chapter02\Variable\bin\Debug\net8.0\Variable.deps.json
+D:\DevLang\C_Sharp\Chapter02\Variable\bin\Debug\net8.0\Variable.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter02\Variable\bin\Debug\net8.0\Variable.dll
+D:\DevLang\C_Sharp\Chapter02\Variable\bin\Debug\net8.0\Variable.pdb
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.sourcelink.json
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.dll
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\refint\Variable.dll
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.pdb
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\Variable.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter02\Variable\obj\Debug\net8.0\ref\Variable.dll
