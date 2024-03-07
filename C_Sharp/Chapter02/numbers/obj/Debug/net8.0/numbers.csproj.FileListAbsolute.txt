@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter02\numbers\bin\Debug\net8.0\numbers.exe
+D:\DevLang\C_Sharp\Chapter02\numbers\bin\Debug\net8.0\numbers.deps.json
+D:\DevLang\C_Sharp\Chapter02\numbers\bin\Debug\net8.0\numbers.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter02\numbers\bin\Debug\net8.0\numbers.dll
+D:\DevLang\C_Sharp\Chapter02\numbers\bin\Debug\net8.0\numbers.pdb
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.sourcelink.json
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.dll
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\refint\numbers.dll
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.pdb
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\numbers.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter02\numbers\obj\Debug\net8.0\ref\numbers.dll

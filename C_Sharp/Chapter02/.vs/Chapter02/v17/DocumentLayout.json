@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\Chapter02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A961087F-EFD3-439B-A283-D287278731CB}|Variable\\Variable.csproj|d:\\devlang\\c_sharp\\chapter02\\variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A961087F-EFD3-439B-A283-D287278731CB}|Variable\\Variable.csproj|solutionrelative:variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}|numbers\\numbers.csproj|d:\\devlang\\c_sharp\\chapter02\\numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}|numbers\\numbers.csproj|solutionrelative:numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}|numbers\\numbers.csproj|d:\\devlang\\c_sharp\\chapter02\\numbers\\numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}|numbers\\numbers.csproj|solutionrelative:numbers\\numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "numbers",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\numbers\\numbers.csproj",
+              "RelativeDocumentMoniker": "numbers\\numbers.csproj",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\numbers\\numbers.csproj",
+              "RelativeToolTip": "numbers\\numbers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T05:12:34.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\Variable\\Program.cs",
-              "RelativeDocumentMoniker": "Variable\\Program.cs",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\Variable\\Program.cs",
-              "RelativeToolTip": "Variable\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAowDkAAAAkAAAA",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\numbers\\Program.cs",
+              "RelativeDocumentMoniker": "numbers\\Program.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\numbers\\Program.cs",
+              "RelativeToolTip": "numbers\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowHkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:13:49.193Z",
+              "WhenOpened": "2024-03-07T03:33:28.188Z",
               "EditorCaption": ""
             }
           ]
