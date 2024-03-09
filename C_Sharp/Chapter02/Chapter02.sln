@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vocabulary", "Vocabulary\Vo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variable", "Variable\Variable.csproj", "{A961087F-EFD3-439B-A283-D287278731CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numbers", "numbers\numbers.csproj", "{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numbers", "numbers\numbers.csproj", "{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formatting", "formatting\formatting.csproj", "{BA96EF66-1AB4-46C6-B0AC-D1ABE75FDFA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76AA3C45-859E-4DC8-B91C-6E3EE4168CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA96EF66-1AB4-46C6-B0AC-D1ABE75FDFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA96EF66-1AB4-46C6-B0AC-D1ABE75FDFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA96EF66-1AB4-46C6-B0AC-D1ABE75FDFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA96EF66-1AB4-46C6-B0AC-D1ABE75FDFA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
