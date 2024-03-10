@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter02\Arguments\bin\Debug\net8.0\Arguments.exe
+D:\DevLang\C_Sharp\Chapter02\Arguments\bin\Debug\net8.0\Arguments.deps.json
+D:\DevLang\C_Sharp\Chapter02\Arguments\bin\Debug\net8.0\Arguments.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter02\Arguments\bin\Debug\net8.0\Arguments.dll
+D:\DevLang\C_Sharp\Chapter02\Arguments\bin\Debug\net8.0\Arguments.pdb
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.sourcelink.json
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.dll
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\refint\Arguments.dll
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.pdb
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\Arguments.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter02\Arguments\obj\Debug\net8.0\ref\Arguments.dll

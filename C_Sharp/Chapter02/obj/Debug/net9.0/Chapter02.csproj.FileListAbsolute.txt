@@ -1,0 +1,5 @@
+D:\DevLang\C_Sharp\Chapter02\obj\Debug\net9.0\Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter02\obj\Debug\net9.0\Chapter02.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter02\obj\Debug\net9.0\Chapter02.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter02\obj\Debug\net9.0\Chapter02.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter02\obj\Debug\net9.0\Chapter02.sourcelink.json

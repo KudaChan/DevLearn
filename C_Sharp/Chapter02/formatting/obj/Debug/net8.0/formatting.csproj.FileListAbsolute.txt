@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter02\formatting\bin\Debug\net8.0\formatting.exe
+D:\DevLang\C_Sharp\Chapter02\formatting\bin\Debug\net8.0\formatting.deps.json
+D:\DevLang\C_Sharp\Chapter02\formatting\bin\Debug\net8.0\formatting.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter02\formatting\bin\Debug\net8.0\formatting.dll
+D:\DevLang\C_Sharp\Chapter02\formatting\bin\Debug\net8.0\formatting.pdb
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.sourcelink.json
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.dll
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\refint\formatting.dll
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.pdb
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\formatting.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter02\formatting\obj\Debug\net8.0\ref\formatting.dll

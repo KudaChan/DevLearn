@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C_Sharp",
+    "\\C_Sharp\\Chapter02",
+    "\\C_Sharp\\Chapter02\\Arguments",
+    "\\C_Sharp\\Chapter02\\Arguments\\Properties",
+    "\\C_Sharp\\Chapter02\\formatting"
   ],
+  "SelectedNode": "\\C_Sharp\\Chapter02\\Arguments\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
