@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.exe
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.deps.json
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.dll
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.pdb
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.sourcelink.json
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.dll
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\refint\AsyncConsole.dll
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.pdb
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter02\AsyncConsole\obj\Debug\net8.0\ref\AsyncConsole.dll

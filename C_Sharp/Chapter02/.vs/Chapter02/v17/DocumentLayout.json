@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\Chapter02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58CED49B-ED8D-4109-9211-92897D610D3F}|Arguments\\Arguments.csproj|d:\\devlang\\c_sharp\\chapter02\\arguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58CED49B-ED8D-4109-9211-92897D610D3F}|Arguments\\Arguments.csproj|solutionrelative:arguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FCB6E2-8F05-47F5-AF46-E72C8C90240D}|AsyncConsole\\AsyncConsole.csproj|d:\\devlang\\c_sharp\\chapter02\\asyncconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FCB6E2-8F05-47F5-AF46-E72C8C90240D}|AsyncConsole\\AsyncConsole.csproj|solutionrelative:asyncconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58CED49B-ED8D-4109-9211-92897D610D3F}|Arguments\\Arguments.csproj|d:\\devlang\\c_sharp\\chapter02\\arguments\\arguments.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{58CED49B-ED8D-4109-9211-92897D610D3F}|Arguments\\Arguments.csproj|solutionrelative:arguments\\arguments.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F2FCB6E2-8F05-47F5-AF46-E72C8C90240D}|AsyncConsole\\AsyncConsole.csproj|d:\\devlang\\c_sharp\\chapter02\\asyncconsole\\asyncconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2FCB6E2-8F05-47F5-AF46-E72C8C90240D}|AsyncConsole\\AsyncConsole.csproj|solutionrelative:asyncconsole\\asyncconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Arguments",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\Arguments\\Arguments.csproj",
-              "RelativeDocumentMoniker": "Arguments\\Arguments.csproj",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\Arguments\\Arguments.csproj",
-              "RelativeToolTip": "Arguments\\Arguments.csproj",
+              "Title": "AsyncConsole",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\AsyncConsole\\AsyncConsole.csproj",
+              "RelativeDocumentMoniker": "AsyncConsole\\AsyncConsole.csproj",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\AsyncConsole\\AsyncConsole.csproj*",
+              "RelativeToolTip": "AsyncConsole\\AsyncConsole.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T10:20:11.749Z",
+              "WhenOpened": "2024-03-11T10:00:12.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\Arguments\\Program.cs",
-              "RelativeDocumentMoniker": "Arguments\\Program.cs",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\Arguments\\Program.cs",
-              "RelativeToolTip": "Arguments\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter02\\AsyncConsole\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncConsole\\Program.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter02\\AsyncConsole\\Program.cs*",
+              "RelativeToolTip": "AsyncConsole\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:52:21.386Z",
+              "WhenOpened": "2024-03-11T09:58:48.743Z",
               "EditorCaption": ""
             }
           ]
