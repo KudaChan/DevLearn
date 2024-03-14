@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter03\casting\bin\Debug\net8.0\casting.exe
+D:\DevLang\C_Sharp\Chapter03\casting\bin\Debug\net8.0\casting.deps.json
+D:\DevLang\C_Sharp\Chapter03\casting\bin\Debug\net8.0\casting.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter03\casting\bin\Debug\net8.0\casting.dll
+D:\DevLang\C_Sharp\Chapter03\casting\bin\Debug\net8.0\casting.pdb
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.sourcelink.json
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.dll
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\refint\casting.dll
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.pdb
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\casting.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter03\casting\obj\Debug\net8.0\ref\casting.dll

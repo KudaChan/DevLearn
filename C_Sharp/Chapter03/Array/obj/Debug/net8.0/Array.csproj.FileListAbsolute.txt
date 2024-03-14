@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter03\Array\bin\Debug\net8.0\Array.exe
+D:\DevLang\C_Sharp\Chapter03\Array\bin\Debug\net8.0\Array.deps.json
+D:\DevLang\C_Sharp\Chapter03\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter03\Array\bin\Debug\net8.0\Array.dll
+D:\DevLang\C_Sharp\Chapter03\Array\bin\Debug\net8.0\Array.pdb
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.sourcelink.json
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.dll
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\refint\Array.dll
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.pdb
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter03\Array\obj\Debug\net8.0\ref\Array.dll

@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.sourcelink.json
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\bin\Debug\net8.0\iterationStatements.exe
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\bin\Debug\net8.0\iterationStatements.deps.json
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\bin\Debug\net8.0\iterationStatements.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\bin\Debug\net8.0\iterationStatements.dll
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\bin\Debug\net8.0\iterationStatements.pdb
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.dll
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\refint\iterationStatements.dll
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.pdb
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\iterationStatements.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter03\iterationStatements\obj\Debug\net8.0\ref\iterationStatements.dll
