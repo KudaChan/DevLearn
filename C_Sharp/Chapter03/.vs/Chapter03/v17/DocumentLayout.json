@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{69128081-1E27-4A0C-9192-5CE20E2B340A}|casting\\casting.csproj|solutionrelative:casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69128081-1E27-4A0C-9192-5CE20E2B340A}|casting\\casting.csproj|d:\\devlang\\c_sharp\\chapter03\\casting\\casting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{69128081-1E27-4A0C-9192-5CE20E2B340A}|casting\\casting.csproj|D:\\DevLang\\C_Sharp\\Chapter03\\casting\\casting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{69128081-1E27-4A0C-9192-5CE20E2B340A}|casting\\casting.csproj|solutionrelative:casting\\casting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "casting\\casting.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T17:11:19.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T17:11:19.67Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "casting\\Program.cs",
               "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter03\\casting\\Program.cs",
               "RelativeToolTip": "casting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T17:11:15.601Z",
               "EditorCaption": ""

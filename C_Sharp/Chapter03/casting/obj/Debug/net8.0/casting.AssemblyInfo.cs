@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("casting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47ff36e4502ad9220530a9abb741ab214e534a77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6341ccf820c7e4c54c823a0bd0b1c17daac49472")]
 [assembly: System.Reflection.AssemblyProductAttribute("casting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("casting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
