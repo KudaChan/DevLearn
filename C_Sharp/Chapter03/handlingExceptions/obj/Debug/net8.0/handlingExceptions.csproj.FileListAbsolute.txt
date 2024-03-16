@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\bin\Debug\net8.0\handlingExceptions.exe
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\bin\Debug\net8.0\handlingExceptions.deps.json
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\bin\Debug\net8.0\handlingExceptions.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\bin\Debug\net8.0\handlingExceptions.dll
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\bin\Debug\net8.0\handlingExceptions.pdb
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.sourcelink.json
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.dll
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\refint\handlingExceptions.dll
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.pdb
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\handlingExceptions.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter03\handlingExceptions\obj\Debug\net8.0\ref\handlingExceptions.dll

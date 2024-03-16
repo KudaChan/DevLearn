@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iterationStatements", "iter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{269019FB-046F-4C49-BF49-DA021028C622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casting", "casting\casting.csproj", "{69128081-1E27-4A0C-9192-5CE20E2B340A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "casting", "casting\casting.csproj", "{69128081-1E27-4A0C-9192-5CE20E2B340A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handlingExceptions", "handlingExceptions\handlingExceptions.csproj", "{5DBFE3A8-A6BA-42C7-B9C2-6056C558B2DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{69128081-1E27-4A0C-9192-5CE20E2B340A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69128081-1E27-4A0C-9192-5CE20E2B340A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69128081-1E27-4A0C-9192-5CE20E2B340A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBFE3A8-A6BA-42C7-B9C2-6056C558B2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBFE3A8-A6BA-42C7-B9C2-6056C558B2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBFE3A8-A6BA-42C7-B9C2-6056C558B2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBFE3A8-A6BA-42C7-B9C2-6056C558B2DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
