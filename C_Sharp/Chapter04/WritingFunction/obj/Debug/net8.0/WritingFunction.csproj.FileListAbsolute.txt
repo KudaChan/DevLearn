@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\bin\Debug\net8.0\WritingFunction.exe
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\bin\Debug\net8.0\WritingFunction.deps.json
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\bin\Debug\net8.0\WritingFunction.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\bin\Debug\net8.0\WritingFunction.dll
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\bin\Debug\net8.0\WritingFunction.pdb
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.sourcelink.json
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.dll
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\refint\WritingFunction.dll
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.pdb
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\WritingFunction.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter04\WritingFunction\obj\Debug\net8.0\ref\WritingFunction.dll
