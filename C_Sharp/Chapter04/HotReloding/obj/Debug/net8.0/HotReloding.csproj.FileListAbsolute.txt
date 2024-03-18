@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter04\HotReloding\bin\Debug\net8.0\HotReloding.exe
+D:\DevLang\C_Sharp\Chapter04\HotReloding\bin\Debug\net8.0\HotReloding.deps.json
+D:\DevLang\C_Sharp\Chapter04\HotReloding\bin\Debug\net8.0\HotReloding.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter04\HotReloding\bin\Debug\net8.0\HotReloding.dll
+D:\DevLang\C_Sharp\Chapter04\HotReloding\bin\Debug\net8.0\HotReloding.pdb
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.sourcelink.json
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.dll
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\refint\HotReloding.dll
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.pdb
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\HotReloding.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter04\HotReloding\obj\Debug\net8.0\ref\HotReloding.dll

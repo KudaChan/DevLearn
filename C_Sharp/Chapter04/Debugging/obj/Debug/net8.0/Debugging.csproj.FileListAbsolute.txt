@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter04\Debugging\bin\Debug\net8.0\Debugging.exe
+D:\DevLang\C_Sharp\Chapter04\Debugging\bin\Debug\net8.0\Debugging.deps.json
+D:\DevLang\C_Sharp\Chapter04\Debugging\bin\Debug\net8.0\Debugging.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter04\Debugging\bin\Debug\net8.0\Debugging.dll
+D:\DevLang\C_Sharp\Chapter04\Debugging\bin\Debug\net8.0\Debugging.pdb
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.sourcelink.json
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.dll
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\refint\Debugging.dll
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.pdb
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\Debugging.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter04\Debugging\obj\Debug\net8.0\ref\Debugging.dll

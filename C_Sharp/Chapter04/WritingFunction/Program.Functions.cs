@@ -43,6 +43,11 @@ internal partial class Program
         return amount * rate;
     }
 
+    /// <summary>
+    /// Pass a 32-bit unsigned integer and it will be converted into its ordinal equivalent.
+    /// </summary>
+    /// <param name="number"> Number as a cardinal value e.g. 1,2,3, and so on.</param>
+    /// <returns>Number as an ordinal value e.g. 1st, 2nd, 3rd, and so on.</returns>
     private static string CardinalToOrdinal(uint number)
     {
         uint lastTwoDigits = number % 100;
@@ -115,6 +120,54 @@ internal partial class Program
             {
                 WriteLine($"{i}! throws {ex.GetType()}: {ex.Message}");
             }
+        }
+    }
+
+    private static int FibImperative(uint term)
+    {
+        if (term == 0)
+        {
+            throw new ArgumentOutOfRangeException();
+        }
+        else if (term == 1)
+        {
+            return 0;
+        }
+        else if (term == 2)
+        {
+            return 1;
+        }
+        else
+        {
+            return FibImperative(term - 1) + FibImperative(term - 2);
+        }
+    }
+
+    private static void RunFibImperative()
+    {
+        for (uint i = 1; i <= 30; i++)
+        {
+            WriteLine("The {0} term of the fibonacci is {1:N0}.",
+                arg0: CardinalToOrdinal(i),
+                arg1: FibImperative(term: i));
+        }
+    }
+
+    private static int FibFunctional(uint term) =>
+        term switch
+        {
+            1 => 0,
+            2 => 1,
+            _ => FibFunctional(term - 1) + FibFunctional(term - 2)
+        };
+
+    private static void RunFibFunctional()
+    {
+        for (uint i = 1; i <= 30; i++)
+        {
+            WriteLine("The {0} term of the fibonacci is {1:N0}.",
+               arg0: CardinalToOrdinal(i),
+               arg1: FibFunctional(term: i));
         }
     }
 }

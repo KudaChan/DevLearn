@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\C_Sharp",
-    "\\C_Sharp\\Chapter03\\handlingExceptions",
+    "\\C_Sharp\\Chapter03",
     "\\C_Sharp\\Chapter04",
-    "\\C_Sharp\\Chapter04\\TopLevelFunction"
+    "\\C_Sharp\\Chapter04\\Debugging",
+    "\\C_Sharp\\Chapter04\\HotReloding",
+    "\\C_Sharp\\Chapter04\\TopLevelFunction",
+    "\\C_Sharp\\Chapter04\\WritingFunction"
   ],
-  "SelectedNode": "\\C_Sharp\\Chapter04\\TopLevelFunction\\Program.cs",
+  "SelectedNode": "\\C_Sharp\\Chapter04\\HotReloding\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

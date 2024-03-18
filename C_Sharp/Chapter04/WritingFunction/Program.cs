@@ -7,4 +7,8 @@ ConfigureConsole();
 
 //RunCardinalToOrdinal();
 
-RunFactorial();
+//RunFactorial();
+
+//RunFibImperative();
+
+//RunFibFunctional();
