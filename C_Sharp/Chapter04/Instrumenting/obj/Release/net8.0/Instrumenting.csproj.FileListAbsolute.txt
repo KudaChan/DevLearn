@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.exe
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.deps.json
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.runtimeconfig.json
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.dll
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\bin\Release\net8.0\Instrumenting.pdb
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.AssemblyInfo.cs
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.sourcelink.json
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.dll
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\refint\Instrumenting.dll
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.pdb
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\Instrumenting.genruntimeconfig.cache
+D:\DevLang\C_Sharp\Chapter04\Instrumenting\obj\Release\net8.0\ref\Instrumenting.dll

@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelFunction", "TopLeve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingFunction", "WritingFunction\WritingFunction.csproj", "{2ABC3456-39E8-4F11-BE86-BB67009EFDEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{93AE6001-A75A-4768-B82E-C924604FDEE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging", "Debugging\Debugging.csproj", "{93AE6001-A75A-4768-B82E-C924604FDEE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotReloding", "HotReloding\HotReloding.csproj", "{1F1D5410-4A1A-40E6-939C-5C249BAF4A7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotReloding", "HotReloding\HotReloding.csproj", "{1F1D5410-4A1A-40E6-939C-5C249BAF4A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{262EC93F-2419-48DB-B602-571AC52E915D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1F1D5410-4A1A-40E6-939C-5C249BAF4A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F1D5410-4A1A-40E6-939C-5C249BAF4A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F1D5410-4A1A-40E6-939C-5C249BAF4A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262EC93F-2419-48DB-B602-571AC52E915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262EC93F-2419-48DB-B602-571AC52E915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262EC93F-2419-48DB-B602-571AC52E915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262EC93F-2419-48DB-B602-571AC52E915D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
