@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotReloding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d9675e30d7094b1cbb2ddef1547d1be7eaa9c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2527acbfe27349b7fe46b1dc46f76568bb1c519c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotReloding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotReloding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

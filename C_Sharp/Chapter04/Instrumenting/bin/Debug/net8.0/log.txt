@@ -3,3 +3,5 @@ Trace says, I am watching!
 Trace error
 Trace warning
 Trace info
+[D:\DevLang\C_Sharp\Chapter04\Instrumenting\Program.cs]
+ <Main>$ on line 58. Expression: unitsInStock > 10
