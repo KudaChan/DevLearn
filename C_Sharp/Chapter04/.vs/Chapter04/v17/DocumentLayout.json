@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\Chapter04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|D:\\DevLang\\C_Sharp\\Chapter04\\instrumenting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|solutionrelative:instrumenting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5F1E57C-C3B2-4E7C-9489-D2AA7F2A3565}|CalculatorLib\\CalculatorLib.csproj|D:\\DevLang\\C_Sharp\\Chapter04\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F1E57C-C3B2-4E7C-9489-D2AA7F2A3565}|CalculatorLib\\CalculatorLib.csproj|solutionrelative:calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|d:\\devlang\\c_sharp\\chapter04\\instrumenting\\bin\\debug\\net8.0\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|solutionrelative:instrumenting\\bin\\debug\\net8.0\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|d:\\devlang\\c_sharp\\chapter04\\calculatorlibunittests\\calculatorunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|solutionrelative:calculatorlibunittests\\calculatorunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|d:\\devlang\\c_sharp\\chapter04\\instrumenting\\bin\\release\\net8.0\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|solutionrelative:instrumenting\\bin\\release\\net8.0\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|d:\\devlang\\c_sharp\\chapter04\\instrumenting\\program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|solutionrelative:instrumenting\\program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|D:\\DevLang\\C_Sharp\\Chapter04\\instrumenting\\instrumenting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{262EC93F-2419-48DB-B602-571AC52E915D}|Instrumenting\\Instrumenting.csproj|solutionrelative:instrumenting\\instrumenting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|D:\\DevLang\\C_Sharp\\Chapter04\\calculatorlibunittests\\calculatorlibunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|solutionrelative:calculatorlibunittests\\calculatorlibunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,48 +22,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Program.cs",
-              "RelativeDocumentMoniker": "Instrumenting\\Program.cs",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Program.cs",
-              "RelativeToolTip": "Instrumenting\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAYwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T17:15:58.767Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "log.txt",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\bin\\Debug\\net8.0\\log.txt",
-              "RelativeDocumentMoniker": "Instrumenting\\bin\\Debug\\net8.0\\log.txt",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\bin\\Debug\\net8.0\\log.txt",
-              "RelativeToolTip": "Instrumenting\\bin\\Debug\\net8.0\\log.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-19T18:28:18.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "log.txt",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\bin\\Release\\net8.0\\log.txt",
-              "RelativeDocumentMoniker": "Instrumenting\\bin\\Release\\net8.0\\log.txt",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\bin\\Release\\net8.0\\log.txt",
-              "RelativeToolTip": "Instrumenting\\bin\\Release\\net8.0\\log.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-19T18:27:57.051Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -82,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.Functions.cs",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Program.Functions.cs",
-              "RelativeDocumentMoniker": "Instrumenting\\Program.Functions.cs",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Program.Functions.cs",
-              "RelativeToolTip": "Instrumenting\\Program.Functions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "DocumentIndex": 1,
+              "Title": "CalculatorUnitTests.cs",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "RelativeDocumentMoniker": "CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "RelativeToolTip": "CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wCMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T18:19:29.192Z",
+              "WhenOpened": "2024-04-02T14:06:22.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Instrumenting.csproj",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Instrumenting.csproj",
-              "RelativeDocumentMoniker": "Instrumenting\\Instrumenting.csproj",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Instrumenting.csproj",
-              "RelativeToolTip": "Instrumenting\\Instrumenting.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "DocumentIndex": 2,
+              "Title": "CalculatorLibUnitTests.csproj",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+              "RelativeDocumentMoniker": "CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+              "RelativeToolTip": "CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-19T17:31:22.829Z",
+              "WhenOpened": "2024-04-02T14:02:04.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLib\\Calculator.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLib\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:50:06.924Z",
               "EditorCaption": ""
             }
           ]

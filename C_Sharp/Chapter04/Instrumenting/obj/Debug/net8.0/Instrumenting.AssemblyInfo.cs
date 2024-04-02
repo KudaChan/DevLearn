@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Instrumenting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2527acbfe27349b7fe46b1dc46f76568bb1c519c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ec4eaac3b1a1d5efcd99746d5148d1e57e6b5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Instrumenting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Instrumenting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
