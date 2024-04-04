@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloCs
-build_property.ProjectDir = D:\DevLang\C_Sharp\Chapter01\HelloCs\
+build_property.ProjectDir = D:\DevLang\C_Sharp\BookTheory\Chapter01\HelloCs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

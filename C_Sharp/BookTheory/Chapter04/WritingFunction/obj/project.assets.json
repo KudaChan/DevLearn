@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevLang\\C_Sharp\\Chapter04\\WritingFunction\\WritingFunction.csproj",
+      "projectUniqueName": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\WritingFunction\\WritingFunction.csproj",
       "projectName": "WritingFunction",
-      "projectPath": "D:\\DevLang\\C_Sharp\\Chapter04\\WritingFunction\\WritingFunction.csproj",
+      "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\WritingFunction\\WritingFunction.csproj",
       "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\DevLang\\C_Sharp\\Chapter04\\WritingFunction\\obj\\",
+      "outputPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\WritingFunction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,12 @@
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net8.0\CallStackExceptionHandlingLib.deps.json
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net8.0\CallStackExceptionHandlingLib.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\bin\Debug\net8.0\CallStackExceptionHandlingLib.pdb
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.sourcelink.json
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\refint\CallStackExceptionHandlingLib.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\CallStackExceptionHandlingLib.pdb
+D:\DevLang\C_Sharp\BookTheory\Chapter04\CallStackExceptionHandlingLib\obj\Debug\net8.0\ref\CallStackExceptionHandlingLib.dll

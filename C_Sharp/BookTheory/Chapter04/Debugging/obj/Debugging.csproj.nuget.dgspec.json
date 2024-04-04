@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevLang\\C_Sharp\\Chapter04\\Debugging\\Debugging.csproj": {}
+    "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Debugging\\Debugging.csproj": {}
   },
   "projects": {
-    "D:\\DevLang\\C_Sharp\\Chapter04\\Debugging\\Debugging.csproj": {
+    "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Debugging\\Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevLang\\C_Sharp\\Chapter04\\Debugging\\Debugging.csproj",
+        "projectUniqueName": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Debugging\\Debugging.csproj",
         "projectName": "Debugging",
-        "projectPath": "D:\\DevLang\\C_Sharp\\Chapter04\\Debugging\\Debugging.csproj",
+        "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Debugging\\Debugging.csproj",
         "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\DevLang\\C_Sharp\\Chapter04\\Debugging\\obj\\",
+        "outputPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Debugging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

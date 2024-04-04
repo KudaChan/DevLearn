@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevLang\\C_Sharp\\Chapter04\\HotReloding\\HotReloding.csproj": {}
+    "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\HotReloding\\HotReloding.csproj": {}
   },
   "projects": {
-    "D:\\DevLang\\C_Sharp\\Chapter04\\HotReloding\\HotReloding.csproj": {
+    "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\HotReloding\\HotReloding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevLang\\C_Sharp\\Chapter04\\HotReloding\\HotReloding.csproj",
+        "projectUniqueName": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\HotReloding\\HotReloding.csproj",
         "projectName": "HotReloding",
-        "projectPath": "D:\\DevLang\\C_Sharp\\Chapter04\\HotReloding\\HotReloding.csproj",
+        "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\HotReloding\\HotReloding.csproj",
         "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\DevLang\\C_Sharp\\Chapter04\\HotReloding\\obj\\",
+        "outputPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\HotReloding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

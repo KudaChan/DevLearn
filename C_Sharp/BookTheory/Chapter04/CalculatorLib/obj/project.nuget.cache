@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hlw4Dq0qR7KvhF0iDJGh/DXRghK8TRNdQrFt/JINcPlofMnmLs4TDNVDx/nMbco3I8iB3EGLWfFou6MWo6f4+w==",
+  "dgSpecHash": "UKxSSpOP1SDidIUzd1ZDVg5Hf1otjYWUSNFj4NmmYbWMphcwxiHBdRDTVIxvW6Dqj2VedJLTsK3K2KJHx9JVGA==",
   "success": true,
-  "projectFilePath": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "projectFilePath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

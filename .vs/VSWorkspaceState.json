@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C_Sharp",
+    "\\C_Sharp\\BookTheory"
   ],
-  "SelectedNode": "\\Chapter04.sln",
+  "SelectedNode": "\\C_Sharp\\BookTheory",
   "PreviewInSolutionExplorer": false
 }

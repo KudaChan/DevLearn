@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevLang\\C_Sharp\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj": {}
+    "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj": {}
   },
   "projects": {
-    "D:\\DevLang\\C_Sharp\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj": {
+    "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevLang\\C_Sharp\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj",
+        "projectUniqueName": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj",
         "projectName": "TopLevelFunction",
-        "projectPath": "D:\\DevLang\\C_Sharp\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj",
+        "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\TopLevelFunction\\TopLevelFunction.csproj",
         "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\DevLang\\C_Sharp\\Chapter04\\TopLevelFunction\\obj\\",
+        "outputPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\TopLevelFunction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

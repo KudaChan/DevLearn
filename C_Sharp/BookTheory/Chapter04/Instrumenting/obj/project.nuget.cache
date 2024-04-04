@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAbLNWUqv564QGKB9ZDNUbT5XT3QJy/fLQmuHwTtl+S0mDBzT93NOW/FfDcYFKmRGh05U/+LwUtolZ18EUwp9A==",
+  "dgSpecHash": "s4+kvgrkXVNjybXskRwKsmd/25hqY9qyrJi1y9ehV8cmBZz+ngLHWYA51aJvPVA9msuZt+V4zOduvf9P+Lw/Pw==",
   "success": true,
-  "projectFilePath": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+  "projectFilePath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Instrumenting\\Instrumenting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kumar\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\kumar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

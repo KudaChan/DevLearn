@@ -625,11 +625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+      "projectUniqueName": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Instrumenting\\Instrumenting.csproj",
       "projectName": "Instrumenting",
-      "projectPath": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\Instrumenting.csproj",
+      "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Instrumenting\\Instrumenting.csproj",
       "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\DevLang\\C_Sharp\\Chapter04\\Instrumenting\\obj\\",
+      "outputPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\Instrumenting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

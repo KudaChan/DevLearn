@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABnENu45iPpqrFtoUXQwbeSp5jOKcP11/epT6T5vkjDSqwwRpmFzkyFQ4P0OFix0MaUavSLYcxkSVrmBkIlN5Q==",
+  "dgSpecHash": "77q6Yn2g5TCdMt0ReUQF6xLdCpreYs6wBnCDEuX6D9nX+KWA2vvp7jr/RUcCjK+fdw6nwysFxPBf53Wsm5Zy/g==",
   "success": true,
-  "projectFilePath": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
+  "projectFilePath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kumar\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
     "C:\\Users\\kumar\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",

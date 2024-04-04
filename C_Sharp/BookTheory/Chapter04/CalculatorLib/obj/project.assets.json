@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+      "projectUniqueName": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
       "projectName": "CalculatorLib",
-      "projectPath": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+      "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
       "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\obj\\",
+      "outputPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CalculatorLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

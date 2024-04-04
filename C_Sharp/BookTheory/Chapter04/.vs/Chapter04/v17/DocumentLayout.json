@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\Chapter04\\",
+  "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|D:\\DevLang\\C_Sharp\\Chapter04\\calculatorlibunittests\\calculatorunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|solutionrelative:calculatorlibunittests\\calculatorunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DB521C1-BA2A-40D4-86AF-00BE7A289082}|CallStackExceptionHandling\\CallStackExceptionHandling.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter04\\callstackexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB521C1-BA2A-40D4-86AF-00BE7A289082}|CallStackExceptionHandling\\CallStackExceptionHandling.csproj|solutionrelative:callstackexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|D:\\DevLang\\C_Sharp\\Chapter04\\calculatorlibunittests\\calculatorlibunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E33F9BE-78E4-4AB7-9345-8F1FC92AB189}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|solutionrelative:calculatorlibunittests\\calculatorlibunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5F1E57C-C3B2-4E7C-9489-D2AA7F2A3565}|CalculatorLib\\CalculatorLib.csproj|d:\\devlang\\c_sharp\\chapter04\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5F1E57C-C3B2-4E7C-9489-D2AA7F2A3565}|CalculatorLib\\CalculatorLib.csproj|solutionrelative:calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0A02F11-3EC6-4672-B25D-089F61DB209B}|CallStackExceptionHandlingLib\\CallStackExceptionHandlingLib.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter04\\callstackexceptionhandlinglib\\processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A02F11-3EC6-4672-B25D-089F61DB209B}|CallStackExceptionHandlingLib\\CallStackExceptionHandlingLib.csproj|solutionrelative:callstackexceptionhandlinglib\\processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorUnitTests.cs",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorUnitTests.cs",
-              "RelativeDocumentMoniker": "CalculatorLibUnitTests\\CalculatorUnitTests.cs",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorUnitTests.cs",
-              "RelativeToolTip": "CalculatorLibUnitTests\\CalculatorUnitTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CallStackExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "CallStackExceptionHandling\\Program.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CallStackExceptionHandling\\Program.cs*",
+              "RelativeToolTip": "CallStackExceptionHandling\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T14:06:22.288Z",
+              "WhenOpened": "2024-04-04T03:59:54.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculatorLibUnitTests.csproj",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
-              "RelativeDocumentMoniker": "CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
-              "RelativeToolTip": "CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T14:02:04.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\Calculator.cs",
-              "RelativeDocumentMoniker": "CalculatorLib\\Calculator.cs",
-              "ToolTip": "D:\\DevLang\\C_Sharp\\Chapter04\\CalculatorLib\\Calculator.cs",
-              "RelativeToolTip": "CalculatorLib\\Calculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "Processor.cs",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CallStackExceptionHandlingLib\\Processor.cs",
+              "RelativeDocumentMoniker": "CallStackExceptionHandlingLib\\Processor.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\CallStackExceptionHandlingLib\\Processor.cs",
+              "RelativeToolTip": "CallStackExceptionHandlingLib\\Processor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T13:50:06.924Z",
+              "WhenOpened": "2024-04-04T03:54:38.793Z",
               "EditorCaption": ""
             }
           ]

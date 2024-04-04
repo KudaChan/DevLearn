@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hqj4NhRmnK9JMama93CsIXLwVHU/DbxaoCga/zIZAo05cW/r0UJWAwhPPSuu81c4zWxxkvCYnUu5reHOgsibkg==",
+  "dgSpecHash": "liffl+QlT9rRQugEIcU3Br0GZZO6FTUlu8DiXvpfrU7tjec0OnPddhD4VdYAuqlFgszZLv5sZvndT083YtGgHw==",
   "success": true,
-  "projectFilePath": "D:\\DevLang\\C_Sharp\\Chapter04\\WritingFunction\\WritingFunction.csproj",
+  "projectFilePath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter04\\WritingFunction\\WritingFunction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
