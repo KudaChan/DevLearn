@@ -23,3 +23,22 @@ Person alice = new()
 
 WriteLine(format: "{0} was born on {1:d}.",
     arg0: alice.Name, arg1: alice.Born);
+
+Person chandan = new()
+{
+    Name = "Chandan Kumar",
+    Born = new DateTimeOffset(
+        year: 2002, month: 07, day: 05,
+        hour: 9, minute: 15, second: 0,
+        offset: TimeSpan.FromHours(+5)),
+    //FavoriteAncientWonder = WorndersOfTheAncientWorld.GreatPyramidOfGiza
+    BucketList = WorndersOfTheAncientWorld.GreatPyramidOfGiza | WorndersOfTheAncientWorld.HangingGardensOfBabylon
+};
+
+WriteLine("");
+
+WriteLine(
+    format: "{0} was born on {1:dddd, d MMMM, yyyy} at {1:hh:mm tt}. His bucketlist to visit is {2}",
+    arg0: chandan.Name,
+    arg1: chandan.Born,
+    arg2: chandan.BucketList);
