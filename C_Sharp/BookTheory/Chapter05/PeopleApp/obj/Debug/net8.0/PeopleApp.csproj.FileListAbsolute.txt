@@ -17,3 +17,5 @@ D:\DevLang\C_Sharp\BookTheory\Chapter05\PeopleApp\obj\Debug\net8.0\refint\People
 D:\DevLang\C_Sharp\BookTheory\Chapter05\PeopleApp\obj\Debug\net8.0\PeopleApp.pdb
 D:\DevLang\C_Sharp\BookTheory\Chapter05\PeopleApp\obj\Debug\net8.0\PeopleApp.genruntimeconfig.cache
 D:\DevLang\C_Sharp\BookTheory\Chapter05\PeopleApp\obj\Debug\net8.0\ref\PeopleApp.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PeopleApp\bin\Debug\net8.0\PacktLibraryModern.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PeopleApp\bin\Debug\net8.0\PacktLibraryModern.pdb

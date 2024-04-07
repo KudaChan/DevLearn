@@ -1,0 +1,12 @@
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.deps.json
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.pdb
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfo.cs
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.sourcelink.json
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
+D:\DevLang\C_Sharp\BookTheory\Chapter05\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll

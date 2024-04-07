@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "PacktLibraryModern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibraryModern.dll": {}
+        }
+      },
       "PacktLibraryNetStandard2/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "PacktLibraryModern/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibraryModern/PacktLibraryModern.csproj",
+      "msbuildProject": "../PacktLibraryModern/PacktLibraryModern.csproj"
+    },
     "PacktLibraryNetStandard2/1.0.0": {
       "type": "project",
       "path": "../PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "PacktLibraryModern >= 1.0.0",
       "PacktLibraryNetStandard2 >= 1.0.0"
     ]
   },
@@ -59,6 +75,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PacktLibraryModern\\PacktLibraryModern.csproj": {
+              "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PacktLibraryModern\\PacktLibraryModern.csproj"
+            },
             "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj": {
               "projectPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj"
             }

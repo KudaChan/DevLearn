@@ -7,9 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\PacktLibraryNetStandard2\PacktLibraryNetStandard2.csproj" />
+        <ProjectReference Include="..\PacktLibraryModern\PacktLibraryModern.csproj" />
+    </ItemGroup>
+
   <ItemGroup>
-    <ProjectReference Include="..\PacktLibraryNetStandard2\PacktLibraryNetStandard2.csproj" />
-	<Using Include="System.Console" Static="true"/>
+    <Using Include="System.Console" Static="true"/>
   </ItemGroup>
 
 </Project>
