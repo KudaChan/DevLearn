@@ -75,10 +75,16 @@ WriteLine(format: "{0} earned {1:C} interest.",
 
 WriteLine("");
 
-Book book = new()
+//Book book = new()
+//{
+//    Isbn = "978-1803237800",
+//    Title = "C# 12 and .NET 8 - Modern Cross-Platform DevelopmentFundamentals"
+//};
+
+Book book = new(isbn: "978-1803237800", title: "C# 12 and .NET 8 - Modern Cross-Platform DevelopmentFundamentals")
 {
-    Isbn = "978-1803237800",
-    Title = "C# 12 and .NET 8 - Modern Cross-Platform DevelopmentFundamentals"
+    Author = "Mark J. Price",
+    PageCount = 800
 };
 
 WriteLine("{0}: {1} written by {2} has {3:N0} pages.",
@@ -93,3 +99,11 @@ WriteLine(format:
     arg0: blankPerson.Name,
     arg1: blankPerson.HomePlanet,
     arg2: blankPerson.Instantiated);
+
+Person gunny = new(initialName: "Gunny", homePlanet: "Mars");
+
+WriteLine(format:
+       "{0} of {1} was created at {2:hh:mm:ss} on a {2:dddd}.",
+          arg0: gunny.Name,
+             arg1: gunny.HomePlanet,
+                arg2: gunny.Instantiated);

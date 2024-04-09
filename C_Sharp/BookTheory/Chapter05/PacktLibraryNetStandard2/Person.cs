@@ -29,4 +29,15 @@ public class Person : Object
     }
 
     #endregion Constructors: Called when using new to instantiate a type.
+
+    #region
+
+    public Person(string initialName, string homePlanet)
+    {
+        Name = initialName;
+        HomePlanet = homePlanet;
+        Instantiated = DateTime.Now;
+    }
+
+    #endregion
 }
