@@ -1,11 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.CodeAnalysis;
-using System.Security.Cryptography.X509Certificates;
+﻿using System.Diagnostics.CodeAnalysis;
 
 namespace Packt.Shared;
 
 public class Book
 {
+    public string Isbn;
+    public string Title;
+
     // Constructor for use with object initializer syntax.
     public Book()
     { }
@@ -14,6 +15,8 @@ public class Book
     [SetsRequiredMembers]
     public Book(string isbn, string title)
     {
+        Isbn = isbn;
+        Title = title;
     }
 
     public string? Author;

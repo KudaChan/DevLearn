@@ -40,4 +40,52 @@ public class Person : Object
     }
 
     #endregion
+
+    #region Methods: Actions the type can perform.
+
+    public void WriteToConsole()
+    {
+        WriteLine($"{Name} was born on a {Born:dddd}.");
+    }
+
+    public string GetOrigin()
+    {
+        return $"{Name} was born on {HomePlanet}.";
+    }
+
+    public string SayHello()
+    {
+        return $"{Name} says 'Hello!'.";
+    }
+
+    public string SayHello(string name)
+    {
+        return $"{Name} says 'Hello, {name}!'";
+    }
+
+    public string OptionalParameters(int count, string command = "Run!", double number = 0.0, bool active = true)
+    {
+        return string.Format(
+                       format: "command is {0}, number is {1}, active is {2}",
+                                  arg0: command, arg1: number, arg2: active);
+    }
+
+    #endregion
+
+    #region controlling how parameters are passed
+
+    public void PassingParameters(int w, in int x, ref int y, out int z)
+    {
+        // out parameters cannot have a default
+        // AND must be initialized inside the method
+        z = 99;
+
+        // increment each parameter
+        y++;
+        z++;
+
+        WriteLine($"In the method: w={w}, x={x}, y={y}, z={z}");
+    }
+
+    #endregion
 }
