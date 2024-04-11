@@ -1,6 +1,6 @@
 ﻿namespace Packt.Shared;
 
-public class Person : Object
+public partial class Person : Object
 {
     #region Fields: Data or state for the person.
 
@@ -85,6 +85,60 @@ public class Person : Object
         z++;
 
         WriteLine($"In the method: w={w}, x={x}, y={y}, z={z}");
+    }
+
+    #endregion
+
+    #region Tuples
+
+    public (string, int) GetFruit()
+    {
+        return ("Apples", 5);
+    }
+
+    public (string Name, int Number) GetNamedFruit()
+    {
+        return (Name: "Cherries", Number: 5);
+    }
+
+    #endregion
+
+    #region Deconstructor
+
+    public void Deconstruct(out string? name, out DateTimeOffset dob)
+    {
+        name = Name;
+        dob = Born;
+    }
+
+    public void Deconstruct(out string? name, out DateTimeOffset dob, out WorndersOfTheAncientWorld bucketList)
+    {
+        name = Name;
+        dob = Born;
+        bucketList = BucketList;
+    }
+
+    #endregion
+
+    #region Implementing functionality using local functions
+
+    public static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentException(
+                               $"{nameof(number)} cannot be less than zero.");
+        }
+        return localFactorial(number);
+
+        int localFactorial(int localNumber)
+        {
+            if (localNumber < 1)
+            {
+                return 1;
+            }
+            return localNumber * localFactorial(localNumber - 1);
+        }
     }
 
     #endregion

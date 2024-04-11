@@ -1,8 +1,8 @@
 using Packt.Shared;
 
-ConfigureConsole();
+using Fruit = (string Name, int Number);
 
-#region basics
+ConfigureConsole();
 
 Person bob = new Person();
 bob.Name = "Bob Smith";
@@ -147,4 +147,51 @@ WriteLine($"Before: e={e}, f={f}, g={g} h doesn't exist yet!");
 bob.PassingParameters(e, f, ref g, out int h);
 WriteLine($"After: e={e}, f={f}, g={g}, h={h}");
 
-#endregion basics
+WriteLine("");
+
+(string, int) fruit = bob.GetFruit();
+WriteLine($"{fruit.Item1}, {fruit.Item2} there are.");
+
+WriteLine("");
+
+var fruitNamed = bob.GetNamedFruit();
+WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}.");
+
+WriteLine("");
+
+var thing1 = ("Neville", 4);
+WriteLine($"{thing1.Item1} has {thing1.Item2} children.");
+
+var thing2 = (chandan.Name, chandan.Friends.Count);
+WriteLine($"{thing2.Name} has {thing2.Count} friends.");
+
+WriteLine("");
+
+Fruit fruitNamed2 = bob.GetNamedFruit();
+WriteLine($"There are {fruitNamed2.Number} {fruitNamed2.Name}.");
+
+WriteLine("");
+
+(string Name, int Number) = bob.GetNamedFruit();
+WriteLine($"Deconstructed: {Name}, {Number}");
+
+WriteLine("");
+
+var (name1, dob1) = bob;
+WriteLine($"Deconstructed person: {name1}, {dob1}");
+
+var (name2, dob2, fav2) = chandan;
+WriteLine($"Deconstructed person: {name2}, {dob2}, {fav2}");
+
+WriteLine("");
+
+int number = 5;
+
+try
+{
+    WriteLine($"{number}! = {Person.Factorial(number)}");
+}
+catch (Exception ex)
+{
+    WriteLine($"{ex.GetType()} says: {ex.Message} number was {number}.");
+}
