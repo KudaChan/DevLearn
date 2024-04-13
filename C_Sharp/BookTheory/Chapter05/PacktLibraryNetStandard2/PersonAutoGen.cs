@@ -48,4 +48,39 @@ public partial class Person
     }
 
     #endregion Defining settable properties
+
+    #region Limiting flags enum values
+
+    private WorndersOfTheAncientWorld _favoriteAncientWonder;
+
+    public WorndersOfTheAncientWorld FavoriteAncientWonder
+    {
+        get
+        {
+            return _favoriteAncientWonder;
+        }
+        set
+        {
+            string wonderName = value.ToString();
+
+            if (wonderName.Contains(','))
+            {
+                throw new System.ArgumentException("Invalid ancient wonder.");
+            }
+            if (!Enum.IsDefined(typeof(WorndersOfTheAncientWorld), value))
+            {
+                throw new System.ArgumentException(message: "Favorite ancient wonder can only have a single enum value.",
+                    paramName: nameof(FavoriteAncientWonder));
+            }
+            if (!Enum.IsDefined(typeof(WorndersOfTheAncientWorld), value))
+            {
+                throw new System.ArgumentException($"{value} is not a member of the WondersOf TheAncientWorld enum.",
+                   paramName: nameof(FavoriteAncientWonder));
+            }
+
+            _favoriteAncientWonder = value;
+        }
+    }
+
+    #endregion Limiting flags enum values
 }

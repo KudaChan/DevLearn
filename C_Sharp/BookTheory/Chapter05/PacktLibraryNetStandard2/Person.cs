@@ -111,12 +111,12 @@ public partial class Person : Object
         dob = Born;
     }
 
-    public void Deconstruct(out string? name, out DateTimeOffset dob, out WorndersOfTheAncientWorld bucketList)
-    {
-        name = Name;
-        dob = Born;
-        bucketList = BucketList;
-    }
+    //public void Deconstruct(out string? name, out DateTimeOffset dob /*out WorndersOfTheAncientWorld bucketList*/)
+    //{
+    //    name = Name;
+    //    dob = Born;
+    //    //bucketList = BucketList;
+    //}
 
     #endregion
 

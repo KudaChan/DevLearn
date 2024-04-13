@@ -180,8 +180,8 @@ WriteLine("");
 var (name1, dob1) = bob;
 WriteLine($"Deconstructed person: {name1}, {dob1}");
 
-var (name2, dob2, fav2) = chandan;
-WriteLine($"Deconstructed person: {name2}, {dob2}, {fav2}");
+//var (name2, dob2, fav2) = chandan;
+//WriteLine($"Deconstructed person: {name2}, {dob2}, {fav2}");
 
 WriteLine("");
 
@@ -207,3 +207,23 @@ Person sam = new()
 WriteLine(sam.Origin);
 WriteLine(sam.Greeting);
 WriteLine(sam.Age);
+
+WriteLine("");
+
+sam.FavoriteIceCream = "Chocolate";
+WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoriteIceCream}.");
+
+string color = "Red";
+
+try
+{
+    sam.FavoutitePrimaryColor = color;
+    WriteLine($"Sam's favorite color is {sam.FavoutitePrimaryColor}.");
+}
+catch (Exception ex)
+{
+    WriteLine("Tried to set {0} to '{1}': {2}",
+        nameof(sam.FavoutitePrimaryColor), color, ex.Message);
+}
+
+chandan.FavoriteAncientWonder = WorndersOfTheAncientWorld.GreatPyramidOfGiza | WorndersOfTheAncientWorld.StatueOfZeusAtOlympia;
