@@ -226,4 +226,18 @@ catch (Exception ex)
         nameof(sam.FavoutitePrimaryColor), color, ex.Message);
 }
 
-chandan.FavoriteAncientWonder = WorndersOfTheAncientWorld.GreatPyramidOfGiza | WorndersOfTheAncientWorld.StatueOfZeusAtOlympia;
+chandan.FavoriteAncientWonder = (WorndersOfTheAncientWorld)4;
+WriteLine($"{chandan.Name}'s favorite ancient wonder is {chandan.FavoriteAncientWonder}.");
+
+WriteLine("");
+
+bob.Friends.Add(new() { Name = "Charlie", Born = new(2020, 12, 24, 0, 0, 0, TimeSpan.Zero) });
+bob.Friends.Add(new() { Name = "Daisy", Born = new(2019, 11, 23, 0, 0, 0, TimeSpan.Zero) });
+
+WriteLine($"Bob's first child is {bob.Friends[0].Name}");
+WriteLine($"Bob's second child is {bob.Friends[1].Name}");
+
+WriteLine($"Bob's first child is {bob[0].Name}");
+WriteLine($"Bob's second child is {bob[1].Name}");
+
+WriteLine($"Bob's friend named Daisy is {bob["Daisy"].Age} years old.");

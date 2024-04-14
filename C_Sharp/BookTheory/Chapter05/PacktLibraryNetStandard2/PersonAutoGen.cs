@@ -83,4 +83,28 @@ public partial class Person
     }
 
     #endregion Limiting flags enum values
+
+    #region Indexers: Properties that use array syntax to access them.
+
+    public Person this[int index]
+    {
+        get
+        {
+            return Friends[index];
+        }
+        set
+        {
+            Friends[index] = value;
+        }
+    }
+
+    public Person this[string name]
+    {
+        get
+        {
+            return Friends.FirstOrDefault(f => f.Name == name);
+        }
+    }
+
+    #endregion Indexers: Properties that use array syntax to access them.
 }

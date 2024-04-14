@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter05\\packtlibrarynetstandard2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|solutionrelative:packtlibrarynetstandard2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AA68599-ECFD-472D-BB5B-AB18239C27C1}|PeopleApp\\PeopleApp.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter05\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AA68599-ECFD-472D-BB5B-AB18239C27C1}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter05\\packtlibrarynetstandard2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter05\\packtlibrarynetstandard2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|solutionrelative:packtlibrarynetstandard2\\personautogen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\packtlibrarynetstandard2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F694304D-20D0-4948-819E-48420F11146C}|PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj|solutionrelative:packtlibrarynetstandard2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PeopleApp\\Program.cs",
               "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
               "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PeopleApp\\Program.cs",
               "RelativeToolTip": "PeopleApp\\Program.cs",
-              "ViewState": "AQIAANkAAAAAAAAAAAAAAOQAAAB+AAAA",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAQwPIAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T18:27:25.677Z",
               "EditorCaption": ""
@@ -65,18 +65,17 @@
               "RelativeToolTip": "PacktLibraryNetStandard2\\Person.cs",
               "ViewState": "AQIAAGsAAAAAAAAAAAAiwHgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:20:30.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T17:20:30.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonAutoGen.cs",
               "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PacktLibraryNetStandard2\\PersonAutoGen.cs",
               "RelativeDocumentMoniker": "PacktLibraryNetStandard2\\PersonAutoGen.cs",
               "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter05\\PacktLibraryNetStandard2\\PersonAutoGen.cs",
               "RelativeToolTip": "PacktLibraryNetStandard2\\PersonAutoGen.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEMAAAAQAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAqwFsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T17:56:05.208Z",
               "EditorCaption": ""
