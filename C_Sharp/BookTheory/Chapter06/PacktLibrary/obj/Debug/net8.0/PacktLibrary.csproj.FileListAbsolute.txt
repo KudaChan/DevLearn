@@ -1,0 +1,12 @@
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfo.cs
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.sourcelink.json
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\bin\Debug\net8.0\PacktLibrary.deps.json
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\bin\Debug\net8.0\PacktLibrary.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\bin\Debug\net8.0\PacktLibrary.pdb
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\refint\PacktLibrary.dll
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.pdb
+D:\DevLang\C_Sharp\BookTheory\Chapter06\PacktLibrary\obj\Debug\net8.0\ref\PacktLibrary.dll

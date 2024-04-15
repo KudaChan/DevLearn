@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\C_Sharp",
-    "\\C_Sharp\\BookTheory"
+    "\\C_Sharp\\BookTheory",
+    "\\C_Sharp\\BookTheory\\Chapter06",
+    "\\C_Sharp\\BookTheory\\Chapter06\\PacktLibrary",
+    "\\C_Sharp\\BookTheory\\Chapter06\\PeopleApp"
   ],
-  "SelectedNode": "\\C_Sharp\\BookTheory",
+  "SelectedNode": "\\C_Sharp\\BookTheory\\Chapter06\\PacktLibrary\\Person.cs",
   "PreviewInSolutionExplorer": false
 }

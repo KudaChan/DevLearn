@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B8D7B6-0D32-49E7-874B-883BF9395DF9}|PacktLibrary\\PacktLibrary.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter06\\packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B8D7B6-0D32-49E7-874B-883BF9395DF9}|PacktLibrary\\PacktLibrary.csproj|solutionrelative:packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F66053-CA54-45C4-914F-BB10C7DA91E5}|PeopleApp\\PeopleApp.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter06\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F66053-CA54-45C4-914F-BB10C7DA91E5}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F66053-CA54-45C4-914F-BB10C7DA91E5}|PeopleApp\\PeopleApp.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter06\\peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0F66053-CA54-45C4-914F-BB10C7DA91E5}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B8D7B6-0D32-49E7-874B-883BF9395DF9}|PacktLibrary\\PacktLibrary.csproj|d:\\devlang\\c_sharp\\booktheory\\chapter06\\packtlibrary\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26B8D7B6-0D32-49E7-874B-883BF9395DF9}|PacktLibrary\\PacktLibrary.csproj|solutionrelative:packtlibrary\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 186,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleApp",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+              "RelativeDocumentMoniker": "PeopleApp\\PeopleApp.csproj",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+              "RelativeToolTip": "PeopleApp\\PeopleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T09:34:17.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "PeopleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:33:14.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 186,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacktLibrary",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+              "RelativeDocumentMoniker": "PacktLibrary\\PacktLibrary.csproj",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+              "RelativeToolTip": "PacktLibrary\\PacktLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T09:42:15.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "PacktLibrary\\Person.cs",
+              "ToolTip": "D:\\DevLang\\C_Sharp\\BookTheory\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeToolTip": "PacktLibrary\\Person.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:30:45.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
