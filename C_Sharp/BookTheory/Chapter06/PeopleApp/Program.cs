@@ -17,7 +17,10 @@ Person zillah = new() { Name = "Zillah" };
 
 lamech.Marry(adah);
 
-Person.Marry(lamech, zillah);
+if (lamech + zillah)
+{
+    WriteLine($"{lamech.Name} and {zillah.Name} successfully got married.");
+}
 
 lamech.OutputSpouses();
 adah.OutputSpouses();
@@ -29,6 +32,12 @@ WriteLine($"{baby1.Name} was born on {baby1.Born}");
 
 Person baby2 = Person.Procreate(lamech, zillah);
 baby2.Name = "Tubal-cain";
+
+Person baby3 = lamech * adah;
+baby3.Name = "Jubal";
+
+Person baby4 = lamech * zillah;
+baby4.Name = "Naamah";
 
 adah.WriteChildrenToConsole();
 zillah.WriteChildrenToConsole();
