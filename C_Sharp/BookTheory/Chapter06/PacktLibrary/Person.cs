@@ -1,6 +1,6 @@
 ﻿namespace Packt.Shared;
 
-public class Person
+public class Person : IComparable<Person?>
 {
     #region Properties
 
@@ -117,4 +117,27 @@ public class Person
     }
 
     #endregion Operators
+
+    #region delegates
+
+    public int AngerLevel;
+    public event EventHandler? Shout;
+
+    public void poke()
+    {
+        AngerLevel++;
+
+        if (AngerLevel < 3) return;
+
+        if (Shout is not null)
+        {
+            Shout(this, EventArgs.Empty);
+        }
+    }
+
+    public int CompareTo(Person? other)
+    {
+    }
+
+    #endregion delegates
 }
