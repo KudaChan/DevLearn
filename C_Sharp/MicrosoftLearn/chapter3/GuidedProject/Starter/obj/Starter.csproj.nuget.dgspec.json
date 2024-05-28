@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj": {}
+    "d:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "D:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj": {
+    "d:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "d:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "D:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "d:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\kumar\\.nuget\\packages\\",
-        "outputPath": "D:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "d:\\DevLang\\C_Sharp\\MicrosoftLearn\\chapter3\\GuidedProject\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
