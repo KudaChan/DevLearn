@@ -1,6 +1,0 @@
-{
-  "redhat.telemetry.enabled": true,
-  "workbench.activityBar.location": "top",
-  "workbench.layoutControl.enabled": true,
-  "window.commandCenter": true
-}
