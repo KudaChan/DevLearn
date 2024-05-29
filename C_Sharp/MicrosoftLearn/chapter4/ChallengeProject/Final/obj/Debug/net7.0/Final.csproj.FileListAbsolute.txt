@@ -1,0 +1,15 @@
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\bin\Debug\net7.0\Final.exe
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\bin\Debug\net7.0\Final.deps.json
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\bin\Debug\net7.0\Final.dll
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\bin\Debug\net7.0\Final.pdb
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.sourcelink.json
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.dll
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\refint\Final.dll
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.pdb
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+D:\DevLang\C_Sharp\MicrosoftLearn\chapter4\ChallengeProject\Final\obj\Debug\net7.0\ref\Final.dll

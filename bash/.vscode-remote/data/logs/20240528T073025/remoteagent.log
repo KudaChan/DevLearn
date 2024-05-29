@@ -1,0 +1,39 @@
+2024-05-28 07:30:25.366 [info] 
+
+
+
+
+2024-05-28 07:30:25.366 [info] Extension host agent started.
+2024-05-28 07:30:25.379 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-05-28 07:30:25.473 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-05-28 07:30:25.499 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2024-05-28 07:30:26.650 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2024-05-28 07:30:26.671 [info] Getting Manifest... github.vscode-pull-request-github
+2024-05-28 07:30:27.558 [info] Installing extension: github.vscode-pull-request-github
+2024-05-28 07:30:30.746 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /ide/out/server-main.js
+2024-05-28 07:30:30.746 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2024-05-28 07:30:30.837 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.88.1-universal: github.vscode-pull-request-github
+2024-05-28 07:30:30.842 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.88.1-universal
+2024-05-28 07:30:30.846 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-05-28 07:30:30.854 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-05-28 07:30:30.854 [info] Extension 'github.vscode-pull-request-github' v0.88.1 was successfully installed.
+2024-05-28 07:30:30.857 [info] Installing extensions...
+2024-05-28 07:30:31.644 [info] Installing extension 'coderoad.coderoad'...
+2024-05-28 07:30:31.644 [info] Getting Manifest... coderoad.coderoad
+2024-05-28 07:30:32.251 [info] Installing extension: coderoad.coderoad
+2024-05-28 07:30:34.861 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /ide/out/server-main.js
+2024-05-28 07:30:34.861 [info] Extension signature verification is not done: coderoad.coderoad
+2024-05-28 07:30:34.943 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal: coderoad.coderoad
+2024-05-28 07:30:34.946 [info] Renamed to /workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal
+2024-05-28 07:30:34.948 [info] Extracting extension completed. coderoad.coderoad
+2024-05-28 07:30:34.954 [info] Extension installed successfully: coderoad.coderoad
+2024-05-28 07:30:34.954 [info] Extension 'coderoad.coderoad' v0.19.4 was successfully installed.
+2024-05-28 10:21:56.633 [info] [192.168.77.202][91680ce5][ManagementConnection] New connection established.
+2024-05-28 10:22:01.423 [info] [192.168.190.10][db284d2d][ExtensionHostConnection] New connection established.
+2024-05-28 10:22:01.440 [info] [192.168.190.10][db284d2d][ExtensionHostConnection] <60636> Launched Extension Host Process.
+2024-05-28 10:23:21.402 [info] [192.168.77.202][91680ce5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-28 10:23:21.448 [info] [192.168.190.10][db284d2d][ExtensionHostConnection] <60636> Extension Host Process exited with code: 0, signal: null.

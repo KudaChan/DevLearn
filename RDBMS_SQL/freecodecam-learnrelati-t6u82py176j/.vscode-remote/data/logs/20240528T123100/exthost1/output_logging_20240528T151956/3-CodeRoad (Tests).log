@@ -1,0 +1,176 @@
+FAILED TEST LOG
+  ✘ "second_table" should have a column named "username" and no column named "name"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/260.test.js:28:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have a column named "username" and no column named "name"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/260.test.js:28:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have the correct row for "Samus"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/280.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have the correct row for "Samus"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/280.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have the correct row for "Samus"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/280.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have the correct row for "Samus"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/280.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have the correct row for "Samus"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/280.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should have the correct row for "Samus"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/280.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "second_table" should not have a row for "Luigi"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/340.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ You should display the tables with suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(d.test(lastLog))
+
+at Context.<anonymous> (test/420.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should list the databases
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/Listofdatabases/.test(lastQueryResult))
+
+at Context.<anonymous> (test/450.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should be connected to "mario_database"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(re.test(lastLog))
+
+at Context.<anonymous> (test/480.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should be connected to "mario_database"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(re.test(lastLog))
+
+at Context.<anonymous> (test/480.test.js:9:5)
+FAILED TEST LOG
+  ✘ "mario_database" should have a table named "characters"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/540.test.js:19:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "characters" should have a column named "name" of type "VARCHAR(30)" that cannot be NULL
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/570.test.js:20:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "characters" should have a column named "name" of type "VARCHAR(30)" that cannot be NULL
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/570.test.js:20:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "characters" should have a column named "homeland" of type "VARCHAR(60)"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/580.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "characters" should have a column named "homeland" of type "VARCHAR(60)"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/580.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "characters" should have a column named "favorite_color" of type "VARCHAR(30)"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/590.test.js:24:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+FAILED TEST LOG
+  ✘ "characters" should have the correct rows for "Toadstool" and "Bowser"
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(false)
+
+at Context.<anonymous> (test/660.test.js:28:7)
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

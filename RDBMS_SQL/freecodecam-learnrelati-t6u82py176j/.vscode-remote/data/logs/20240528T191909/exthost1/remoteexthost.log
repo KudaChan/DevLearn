@@ -1,0 +1,91 @@
+2024-05-28 19:19:59.313 [info] Extension host with pid 457 started
+2024-05-28 19:19:59.313 [error] Error: EEXIST: file already exists, open '/workspace/.vscode-remote/data/User/workspaceStorage/-d39fb5d/vscode.lock'
+2024-05-28 19:19:59.316 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-d39fb5d/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-05-28 19:19:59.317 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-d39fb5d/vscode.lock': The pid 77524 appears to be gone.
+2024-05-28 19:19:59.317 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-d39fb5d/vscode.lock': Deleting a stale lock.
+2024-05-28 19:19:59.329 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/-d39fb5d/vscode.lock': Lock acquired.
+2024-05-28 19:19:59.592 [info] ExtensionService#_doActivateExtension gitpod.gitpod-web, startup: false, activationEvent: 'onAuthenticationRequest:gitpod'
+2024-05-28 19:20:00.324 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-28 19:20:00.642 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-28 19:20:00.642 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-28 19:20:01.219 [info] Eager extensions activated
+2024-05-28 19:20:01.220 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 19:20:01.220 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 19:20:01.220 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-05-28 19:20:01.544 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-05-28 19:20:03.031 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-28 19:20:03.032 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-28 19:20:03.032 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-28 19:20:18.391 [info] ExtensionService#_doActivateExtension CodeRoad.coderoad, startup: false, activationEvent: 'onCommand:coderoad.start'
+2024-05-28 19:27:43.526 [error] Error: Command failed: git commit -am 'Save progress: 680.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:36:40.893 [error] Error: Command failed: git commit -am 'Save progress: 690.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:38:20.126 [error] Error: Command failed: git commit -am 'Save progress: 700.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:41:24.278 [error] Error: Command failed: git commit -am 'Save progress: 710.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:42:23.509 [error] Error: Command failed: git commit -am 'Save progress: 720.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:44:25.886 [error] Error: Command failed: git commit -am 'Save progress: 730.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:44:32.304 [error] Error: Command failed: git commit -am 'Save progress: 740.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:45:24.394 [error] Error: Command failed: git commit -am 'Save progress: 750.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:46:51.360 [error] Error: Command failed: git commit -am 'Save progress: 760.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:47:46.243 [error] Error: Command failed: git commit -am 'Save progress: 770.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:47:56.997 [error] Error: Command failed: git commit -am 'Save progress: 780.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+2024-05-28 19:51:00.392 [error] Error: Command failed: git commit -am 'Save progress: 790.1'
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:303:5)
