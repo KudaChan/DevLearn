@@ -1,0 +1,15 @@
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.exe
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.deps.json
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.runtimeconfig.json
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.dll
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\bin\Debug\net8.0\DataStructure.pdb
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfoInputs.cache
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfo.cs
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.csproj.CoreCompileInputs.cache
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.sourcelink.json
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.dll
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\refint\DataStructure.dll
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.pdb
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\DataStructure.genruntimeconfig.cache
+D:\Project\Basic_Tech_Learning\DSA\DataStructure\DataStructure\obj\Debug\net8.0\ref\DataStructure.dll
