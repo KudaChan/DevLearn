@@ -26,9 +26,9 @@ The Nano directory contains the `nano_castle` project. More details can be found
 
 The RDBMS_BASH directory contains various database projects implemented in Bash, such as `number_guess_db`, `periodic_db`, and `worldcup_db`. More details can be found in the respective directories.
 
-### Web Development
+### Web Development (In progress)
 
-The `web_dev` directory contains a simple web project and my wed dev learning journey.(In progress)
+The `web_dev` directory contains a simple web project and my wed dev learning journey on [FreeCodeCamp](https://www.freecodecamp.org/).
 
 ## License
 
