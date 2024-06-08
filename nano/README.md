@@ -12,9 +12,9 @@ This directory contains the `nano_castle` project.
 
 The `nano_castle` project is a simple bash script developed using the Nano text editor. The script is named `castle.sh` and it's located in the `nano_castle` directory.
 
-## Usage
+## Acknowledgements
 
-To run the `castle.sh` script, navigate to the `nano_castle` directory and use the following command:
+This project is part of my coursework with [FreeCodeCamp](https://www.freecodecamp.org/). I'm grateful for their resources and the community's support in my coding journey.
 
 ## License
 

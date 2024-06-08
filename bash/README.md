@@ -32,6 +32,10 @@ To run a Bash script, navigate to the directory containing the script and use th
 bash script_name.sh
 ```
 
+## Acknowledgements
+
+This project is part of my coursework with [FreeCodeCamp](https://www.freecodecamp.org/). I'm grateful for their resources and the community's support in my coding journey.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
