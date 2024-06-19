@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
+        "Baskervville",
+        "cfasync",
         "formrow",
-        "freecodecamp"
-    ]
+        "freecodecamp",
+        "picorna"
+    ],
+    "workbench.tree.renderIndentGuides": "always"
 }
