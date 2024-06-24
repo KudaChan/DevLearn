@@ -228,10 +228,18 @@ We can make use of __*.length*__ property of an array. This returns the number o
 **String :**
 
 #### ___string.methods___
+
 - ___.repeat___ method accepts a number as a an argument, specifying the number of times to repeat the target string. <br> For example, using *.repeat()* to generate the string *"code! code! code!"*: <br> `const activity = "code! ";` <br> `activity.repeat(3);`
 
+- ___.replace___ method replace characters in a string with another string. This method accept two argument. The first argument is the character sequence to be replaced, which can be either a string or a regex pattern. The second argument is the string that replaces the matched sequence. <br> Since strings are immutable, the *.replace* method returns a new string with the replaced character. <br> In this example, the *.replace* method is used to replace all instances of the letter *l* with the number *1* in the string *hello*. <br> `"hello".replace(/1/g, "1");`
+
+- ___.match()___ method takes a regex argument. *.match()* will return an array of match result-containing either the first match, or all matches if thr global flag is used. <br> 
+`
+const result = str.match(regex);
+` <br> Return the result of the calling the *.match()* method on *str* and passing out *regex* variavle as the argument.
+ 
 ---
-## __**Conditional Statement**___
+## ___**Conditional Statement**___
 ---
 
  conditional statement, also known as a selection statement, facilitates the making of decisions on the basis of particular conditions. Furthermore, such a statement executes in a sequential manner when there is no condition around the statement. In case some condition is put for a block of statements, change may occur in the execution flow on the basis of the result evaluated by the condition
@@ -387,3 +395,34 @@ console.log(capturedReturnValue); // "Camper cat"
 console.log(name); // reference error
 ```
 An important thing to know about the *return* keyword is that it does not just define a value to be returned from your function, it also stops the execution of your code inside a function or a block statement. This means any code after a *return* statement will not run.
+
+
+---
+## __**Regular Expression(regex)**__
+---
+Regular expressions are patterns used to match character combinations in strings.
+
+Regex in JS is indicated by a pattern wrapped in forward slashes. The following example will match the string literal *"hello"*.
+
+`const regex = /hello/;`
+
+The current pattern will match the exact text "hello".
+
+In regex, shorthand character classes allow us to match specific characters without having to write those characters in our pattern. Shorthand character classes are preceded with backslash. The character class \s will match any whitespace character.
+
+Regex can also take specific flags to alter the pattern matching behavior. Flags are added after the closing */*.
+
+- The **g** flag, which stand for "global", will tell the pattern to continue looking after it has found a match.<br>
+For example: <br> `const helloregex = /hello/g;`
+
+- The **e** in a number input can also be an uppercase **E**. Regex has a flag for this which is **i** flag,stand for "insensitive". <br>
+For example: <br> `const helloregex = /hello/i;`
+
+- The **+** modifier in a regex allows us to match a pattern that occurs one or more times. To match our digit pattern one or more times. <br>
+For example: <br>
+`const regex = /[0-9]+/`
+
+**Shorthand Character:**
+
+- *\s* shorthand character class to match any whitespace.
+- *\d* shorthand character class to match any digit.
