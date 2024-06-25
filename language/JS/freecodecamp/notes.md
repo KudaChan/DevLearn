@@ -92,6 +92,7 @@ demo("Naomi")
 ```
 ___Local Scope or Block Scope :___ Variable can also be declared inside a function. These variables are considered to be in the *local scope*, or *block scope*. A variable declared inside a function can only be used inside that function. If we try to access it outside of the function, we got a reference error.
 
+
 ---
 ## __**Data Types**__
 ---
@@ -226,6 +227,15 @@ We can make use of __*.length*__ property of an array. This returns the number o
 - ***array.includes()*** method determines if an array contains an element and will return either *true* or *false*. <br> `array.includes(12)`
 
 **String :**
+> todo add about string
+
+___template literals :___ allows us to interpolate variables directly within a string. Template literals are denoted with backticks ``, as opposed to single or double quotes. Variables can be passed into a template literal by surrounding the variable with *${}* - the value of the variable will be inserted into the string.<br>
+For Example: <br>
+~~~
+const name = "Naomi";
+const templateLiteral = `Hello, my  name is ${name}~!`;
+console.log(templateLiteral);
+~~~
 
 #### ___string.methods___
 
@@ -233,11 +243,15 @@ We can make use of __*.length*__ property of an array. This returns the number o
 
 - ___.replace___ method replace characters in a string with another string. This method accept two argument. The first argument is the character sequence to be replaced, which can be either a string or a regex pattern. The second argument is the string that replaces the matched sequence. <br> Since strings are immutable, the *.replace* method returns a new string with the replaced character. <br> In this example, the *.replace* method is used to replace all instances of the letter *l* with the number *1* in the string *hello*. <br> `"hello".replace(/1/g, "1");`
 
-- ___.match()___ method takes a regex argument. *.match()* will return an array of match result-containing either the first match, or all matches if thr global flag is used. <br> 
+- ___.match()___ method takes a regex argument. *.match()* will return an array of match result-containing either the first match, or all matches if thr global flag is used. <br>
 `
 const result = str.match(regex);
-` <br> Return the result of the calling the *.match()* method on *str* and passing out *regex* variavle as the argument.
- 
+` <br> Return the result of the calling the *.match()* method on *str* and passing out *regex* variable as the argument.
+
+- ___.toLowerCase()___ method returns the calling string value converted to lower case. <br>
+`
+Hello.toLowerCase(); //output: hello
+`
 ---
 ## ___**Conditional Statement**___
 ---
