@@ -224,7 +224,30 @@ We can make use of __*.length*__ property of an array. This returns the number o
 
 - ***array.shift()*** method remove the first element of the array, unlike .pop() which removes the last element. <br> `array.shift();`
 
-- ***array.includes()*** method determines if an array contains an element and will return either *true* or *false*. <br> `array.includes(12)`
+- ***array.includes()*** method determines if an array contains an element and will return either *true* or *false*. <br> `array.includes(12);`
+
+- ***array.map()*** method is used to iterate through an array and return a new array. It's helpful when we want to create a new array based on the values of an existing array. <br> `array.map(arrow function);` <br> The `map()` method takes a function as an argument. This is called a **callback function**, which is a function that is passed to another function as an argument.
+
+- ***array.join()*** method is used to concatenate all the elements od an array into a single string. It takes an optional parameter called a *separator* which is used to separate each element of the array. <br> `array.join(" "); //Separator takes a space character`
+
+- ***array.sort()*** method converts elements of an array into strings and sort them into in place based on their value in the *UTF-16* encoding. <br> `array.sort();`
+
+- ***array.find()*** method retrieves the first element within an array that fulfills the conditions specified in the provided callback function. If no element satisfies the condition the condition, the method returns *undefined*. <br> `array.find(callback function)`
+
+- ***array.indexOf()*** method returns the first index at which a given element can be found in the array, or *-1* if the element is not present. <br> `array.indexOf(array-element); // output: index of array-element in the array`
+
+- ***array.forEach()*** method is used to loop through an array and perform a function on each element of the array. <br> `array.forEach(callback function or condition);`
+
+- ***array.filter()*** method to keeps only the elements of an array that satisfy the callback function passed to it. <br> `array.filter(callback function);`
+
+***Spread Operator(...)*** allows us to copy all the elements from one array into another. It can also be used to concatenate multiple arrays into one.<br> In example below, both *arr1* and *arr2* hae been spread into *combineArr*:
+~~~
+const arr1 = [1, 2, 3];
+const arr2 = [4, 5, 6];
+
+const combinedArr = [...arr1, ...arr2];
+console.log(combinedArr); // Output: [1, 2, 3, 4, 5, 6]
+~~~
 
 **String :**
 > todo add about string
@@ -440,3 +463,47 @@ For example: <br>
 
 - *\s* shorthand character class to match any whitespace.
 - *\d* shorthand character class to match any digit.
+
+
+---
+## __**Arrow Function**__
+---
+An arrow function is an anonymous function expression and a shorter way to write functions. Anonymous means that the functions does not have a name. Arrow functions are always anonymous.<br>Here is the basic syntax: <br>`() => {}`
+
+To create a named arrow function , we can assign the function to a variable: <br>
+```
+const arrowFunction = () => {
+  // code goes here
+};
+```
+Just like regex functions, arrow functions can accept multiple parameters. <br>
+```
+const greet = (firstName, lastName) => {
+  console.log(`Hello ${firstName} ${lastName}!`);
+}
+```
+If the function only has one parameter. We can omit the parentheses around the parameter list like this:<br>
+```
+const greet = name => {
+  console.log(`Hello ${name}!`);
+  };
+```
+Just like regex functions, arrow functions can return values.<br>
+Here is an example of an arrow function returning the result of multiplying two numbers: <br>
+~~~
+const multiplyTwoNumber = (num1, num2) => {
+  return num1 * num2;
+}
+
+// Output: 12
+console.log(multiplyTwoNumber(2, 6));
+~~~
+If the arrow function is returning a simple expression, we can omit the *return* keyword and the curly braces {}. This is called an **implicit return**. <br> `const multiplyTwoNumbers = (num1, num2) => num1 * num2`
+If out arrow function has multiple line of code in the function body, then we need to use the `return` keyword and the curly braces `{}`.<br> Example Code: <br>
+~~~
+const getTax = (price) => {
+  const taxRate = 0.08;
+  const tax = price * taxRate;
+  return tax;
+}
+~~~
