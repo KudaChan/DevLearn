@@ -172,6 +172,16 @@ const spaceObj = {
 
 spaceObj["Space Name"]; // "Kirk"
 ```
+The *object destructuring* syntax allows us to unpack values from arrays and objects:
+```
+const developerObj = {
+  name: "Jessica Wilkins",
+  isDeveloper: true
+};
+
+// Object destructuring
+const { name, isDeveloper } = developerObj;
+```
 
 ---
 
@@ -240,6 +250,16 @@ We can make use of __*.length*__ property of an array. This returns the number o
 
 - ***array.filter()*** method to keeps only the elements of an array that satisfy the callback function passed to it. <br> `array.filter(callback function);`
 
+- ***array.split()*** method is used to divide a string into substring based on a specified separator. It then returns these substrings as element of an array. <br> `array.split();` <br> The *split* method takes in a parameter known as a separator. The separator is used to tell the computer where each split should occur.
+
+- ***array.reverse()*** method reverses the order of the elements in the array in place. The first element becomes the last, and the last element becomes the first.<br>
+Here is an example of using the *reverse* method:<br>
+`[1, 2, 3, 4, 5].reverse();`
+
+- ***array.join()*** method takes an array of elements and joins them into a string. Similar to the *split* method, the *join* method also takes an optional separator. If you don't provide a separator, the default separator is a comma.<br>
+Here is an example of using the *join* method:<br>
+`[1, 2, 3, 4, 5].join("-");`
+
 ***Spread Operator(...)*** allows us to copy all the elements from one array into another. It can also be used to concatenate multiple arrays into one.<br> In example below, both *arr1* and *arr2* hae been spread into *combineArr*:
 ~~~
 const arr1 = [1, 2, 3];
@@ -281,7 +301,7 @@ Hello.toLowerCase(); //output: hello
 
  conditional statement, also known as a selection statement, facilitates the making of decisions on the basis of particular conditions. Furthermore, such a statement executes in a sequential manner when there is no condition around the statement. In case some condition is put for a block of statements, change may occur in the execution flow on the basis of the result evaluated by the condition
 
- #### <u>__***if Statement :***__</u>
+#### <u>__***if Statement :***__</u>
 An *if statement* allows you to run a block of code only when a condition is met.
 
 ```
@@ -308,7 +328,8 @@ if (false) {
 }
 ```
 
- #### <u>__***if...else if...else Statement :***__</u>
+#### <u>__***if...else if...else Statement :***__</u>
+
 *if...else if...else statements* allow you to check multiple conditions in a single block of code.
 
 ```
@@ -324,6 +345,62 @@ if (condition1) {
 }
 ```
 If the first condition is **false**, JavaScript will check the next condition in the chain. If the second condition is **false**, JavaScript will check the third condition, and so on. An else block will only evaluate if the conditions in the *if* and *else if* blocks are not met.
+
+#### <u>__***switch-case-break-default :***__</u>
+
+*switch* statement is used to compare an expression against multiple possible values and execute different code block based on the match. It's commonly used for branching logic.<br>
+For example, here's how to compare the expression *dayOfWeek* against possible values:<br>
+
+```
+switch (dayOfWeek) {
+  case 1:
+    console.log("It's Monday!");
+    break;
+  case 2:
+    console.log("It's Tuesday!");
+    break;
+  // ...cases for other workdays
+  default:
+    console.log("It's the weekend!");
+}
+```
+
+*case* clause in the *switch* statement that checks for a match against the expression *expr*, followed by code to run if there's a match.<br>
+Here's an example where the *case* clause checks that *expr* is equal to the string "case123":<br>
+
+```
+switch (expr) {
+  case 'case123':
+    // Write your logic here
+}
+```
+
+*break* statement will tell the JS interpreter to stop executing statements. Without adding a *break* statement at the end of each *case* block, the program will execute the code for all matching *cases*. <br>
+```
+switch (someVariable) {
+  case 'case123':
+    // Write your logic here
+    break; // Terminates the switch statement
+}
+```
+
+*default* case is executed when none of the previous case conditions match the value being evaluated. It serves as a catch-all for any other possible cases.<br>
+For example:
+```
+const dayOfWeek = 7;
+
+switch (dayOfWeek) {
+  case 1:
+    console.log("It's Monday!");
+    break;
+  case 2:
+    console.log("It's Tuesday!");
+    break;
+  // ...cases for other workdays
+  default:
+    console.log("It's the weekend!");
+}
+```
 
 ---
 ## __**Loops**__
@@ -433,6 +510,17 @@ console.log(name); // reference error
 ```
 An important thing to know about the *return* keyword is that it does not just define a value to be returned from your function, it also stops the execution of your code inside a function or a block statement. This means any code after a *return* statement will not run.
 
+Function parameters can be initialize with default values. If a function is called without an argument, then the default value will be used.<br>
+For example:<br>
+```
+function greeting(name = "Anonymous") {
+  return "Hello " + name;
+}
+
+console.log(greeting("John")); // Hello John
+console.log(greeting()); // Hello Anonymous
+```
+
 
 ---
 ## __**Regular Expression(regex)**__
@@ -498,6 +586,7 @@ const multiplyTwoNumber = (num1, num2) => {
 // Output: 12
 console.log(multiplyTwoNumber(2, 6));
 ~~~
+
 If the arrow function is returning a simple expression, we can omit the *return* keyword and the curly braces {}. This is called an **implicit return**. <br> `const multiplyTwoNumbers = (num1, num2) => num1 * num2`
 If out arrow function has multiple line of code in the function body, then we need to use the `return` keyword and the curly braces `{}`.<br> Example Code: <br>
 ~~~
@@ -507,3 +596,14 @@ const getTax = (price) => {
   return tax;
 }
 ~~~
+
+Function parameters can be initialize with default values. If a function is called without an argument, then the default value will be used.<br>
+For example:<br>
+```
+const greeting = (name = "Anonymous") => {
+  return "Hello " + name;
+}
+
+console.log(greeting("John")); // Hello John
+console.log(greeting()); // Hello Anonymous
+```
