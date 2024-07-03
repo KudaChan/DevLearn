@@ -260,6 +260,17 @@ Here is an example of using the *reverse* method:<br>
 Here is an example of using the *join* method:<br>
 `[1, 2, 3, 4, 5].join("-");`
 
+- ***array.findIndex()*** method finds and returns index of the first element in an array that meets the criteria specified by a provided testing function. If no such element id found, the method returns *-1*.<br>
+Here's an example: <br>
+`array.findIndex(thing_to_find_in_the_array); // return index`
+
+- ***array.splice()*** method modifies arrays by removing, replacing, or adding elements at a specified index, while also returning the removed element. It can take up to three arguments:<br>
+the first one is the mandatory index at which start. <br>
+the second is the number of items to remove. <br>
+the third is an optional replacement element. <br>
+Here's an example:<br>
+`array.splice(1, 2);`
+
 ***Spread Operator(...)*** allows us to copy all the elements from one array into another. It can also be used to concatenate multiple arrays into one.<br> In example below, both *arr1* and *arr2* hae been spread into *combineArr*:
 ~~~
 const arr1 = [1, 2, 3];
