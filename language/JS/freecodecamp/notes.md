@@ -185,12 +185,30 @@ const { name, isDeveloper } = developerObj;
 
 ---
 
+## __**Data Types**__
+---
+- __*parseInt*__ function converts a string into an integer or whole number. *parseInt* takes at least one argument, a string to be converted into an integer, and returns either an integer or *NaN* which stands for *Not a Number*.<br>For example: <br>
+`
+parseInt(2.2); // 2
+`
+
+- __*isNaN*__ function takes in a string or number as an argument, and returns *true* if it evaluates to *NaN*.<br>
+For example: <br>
+`
+isNaN("test"); // true
+`<br>
+`
+isNaN(2); // false
+`
+
+---
 ## __**Data Structure**__
 ---
 
 In programming, we will often need to work with lots of data. There are many data structures that can help you organize and manage your data. One of the most basic data structures is an array.
 
-**Array :** An array is a non-primitive data type that can hold a series of values. Non-primitive data types differ from primitive data types in that they can hold more complex data. Primitive data types like strings and numbers can only hold one value at a time. Arrays are denoted using square brackets (**[...]**).
+**Array :**<br>
+An array is a non-primitive data type that can hold a series of values. Non-primitive data types differ from primitive data types in that they can hold more complex data. Primitive data types like strings and numbers can only hold one value at a time. Arrays are denoted using square brackets (**[...]**).
 
 Here is an example of a variable with the value of an empty array:
 
@@ -306,6 +324,9 @@ const result = str.match(regex);
 `
 Hello.toLowerCase(); //output: hello
 `
+
+**Stack :** is a data structure where items are stored in a Last-In-First-Out (LIFO) manner. If we imagine a stack of books, the last book we add to the stack is the first book we can take off the stack. Or an array where we can only *.push()* and *.pop()* elements.
+
 ---
 ## ___**Conditional Statement**___
 ---
@@ -618,3 +639,10 @@ const greeting = (name = "Anonymous") => {
 console.log(greeting("John")); // Hello John
 console.log(greeting()); // Hello Anonymous
 ```
+
+---
+## __**Recursion**__
+---
+Recursion is the process of defining something in terms of itself. It is a method of solving problems that involves breaking down a problem into smaller and smaller parts, solving each part, and then reassembling the parts.
+
+__*Call Stack*__ is a stack of functions that are waiting to be executed. When a function is called, it is pushed onto the call stack. When a function is finished, it is popped off the call stack. In other word, The *call stack* is a collection of function calls stored in a stack structure. When we call a function, it is added to the top of the stack, and when it returns, it is removed from the top of the stack.
