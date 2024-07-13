@@ -309,6 +309,14 @@ const templateLiteral = `Hello, my  name is ${name}~!`;
 console.log(templateLiteral);
 ~~~
 
+___Values to String Conversion:___ We can use *String()* function to convert other values to string.
+~~~
+const num = 5;
+
+console.log(String(num)); // "5"
+console.log(String(null)); // "null"
+~~~
+
 #### ___string.methods___
 
 - ___.repeat___ method accepts a number as a an argument, specifying the number of times to repeat the target string. <br> For example, using *.repeat()* to generate the string *"code! code! code!"*: <br> `const activity = "code! ";` <br> `activity.repeat(3);`
@@ -644,5 +652,7 @@ console.log(greeting()); // Hello Anonymous
 ## __**Recursion**__
 ---
 Recursion is the process of defining something in terms of itself. It is a method of solving problems that involves breaking down a problem into smaller and smaller parts, solving each part, and then reassembling the parts.
+
+__*Recursive Function*__ is a function that calls itself over and over. In recursive function we can easily trap into infinite loop. That's where the *base case* comes in play. The *base case* is when the function stops calling itself, and it is a good idea to write it first. It also have a *recursive case* which is the case where the function calls itself.
 
 __*Call Stack*__ is a stack of functions that are waiting to be executed. When a function is called, it is pushed onto the call stack. When a function is finished, it is popped off the call stack. In other word, The *call stack* is a collection of function calls stored in a stack structure. When we call a function, it is added to the top of the stack, and when it returns, it is removed from the top of the stack.
