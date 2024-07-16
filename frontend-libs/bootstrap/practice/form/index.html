@@ -18,14 +18,6 @@
             <div class="col-sm-4 logo">
                 <h2 class="header-text" id="header-text">form.</h2>
             </div>
-            <!-- <div class="col-sm-8 buttons">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <button class="btn btn-success" id="submit-btn" type="submit">Submit</button>
-                        <button class="btn btn-danger" id="cancel-btn" type="reset">Cancel</button>
-                    </div>
-                </div>
-            </div> -->
         </div>
         <div class="main-container">
             <div class="hamburger" id="hamburger">
@@ -47,45 +39,48 @@
                 </nav>
             </div>
             <div class="col-sm-9 form-container">
-                <form class="form-group">
+                <form class="form-group" id="form" action="/">
                     <section id="personal-information">
                         <legend>Personal Information</legend>
                         <div class="row">
                             <div class="mb-3 col-sm-4">
                                 <label for="first-name" class="form-label">First Name</label>
-                                <input type="text" class="form-control" id="first-name" placeholder="Enter First Name" required>
+                                <input type="text" class="form-control" id="first-name" placeholder="Enter First Name" />
+                                <span class="form-error" id="first-name-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
                                 <label for="middle-name" class="form-label">Middle Name</label>
-                                <input type="text" class="form-control" id="middle-name"
-                                    placeholder="Enter Middle Name">
+                                <input type="text" class="form-control" id="middle-name" placeholder="Enter Middle Name(Optional)">
+                                <span class="form-error" id="middle-name-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
                                 <label for="last-name" class="form-label">Last Name</label>
-                                <input type="text" class="form-control" id="last-name" placeholder="Enter Last Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="last-name" placeholder="Enter Last Name">
+                                <span class="form-error" id="last-name-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-6">
                                 <label for="email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="email" placeholder="Enter Email"
-                                    required="true">
+                                <input type="email" class="form-control" id="email" placeholder="Enter Email" >
+                                <span class="form-error" id="email-error"></span>
                             </div>
                             <div class="mb-3 col-sm-6">
                                 <label for="gender" class="form-label">Gender</label>
-                                <select name="gender" id="gender" class="form-select" required="true">
+                                <select name="gender" id="gender" class="form-select" >
                                     <option value="">Select Gender</option>
                                     <option value="male">Male</option>
                                     <option value="female">Female</option>
                                     <option value="other">Other</option>
                                 </select>
+                                <span class="form-error" id="gender-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-4">
-                                <label for="area-code" class="form-label">Call Code</label>
-                                <select name="area-code" id="area-code" class="dropdown form-select" required="true">
+                                <label for="call-code" class="form-label">Call Code</label>
+                                <select name="call-code" id="call-code" class="dropdown form-select" >
+                                    <option value="">Select Call Code</option>
                                     <option value="+91">India(+91)</option>
                                     <option value="+62">Indonesia(+62)</option>
                                     <option value="+98">Iran(+98)</option>
@@ -98,106 +93,118 @@
                                     <option value="+90">Turkey(+90)</option>
                                     <option value="+89">Iraq(+89)</option>
                                 </select>
+                                <span class="form-error" id="call-code-error"></span>
                             </div>
                             <div class="mb-3 col-sm-8">
                                 <label for="phone-number" class="form-label">Phone Number</label>
-                                <input type="text" class="form-control" id="phone-number" placeholder="Phone Number"
-                                    required="true" maxlength="10" required="true">
+                                <input type="tel" class="form-control" id="phone-number" placeholder="Phone Number" maxlength="10">
+                                <span class="form-error" id="phone-number-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-4">
                                 <label for="date-of-birth" class="form-label">Date of Birth</label>
                                 <input type="date" class="form-control" id="date-of-birth" placeholder="Date of Birth"
-                                    required="true" required="true">
+                                    >
+                                <span class="form-error" id="date-of-birth-error"></span>
                             </div>
                         </div>
                     </section>
                     <section id="fathers-information">
                         <legend>Father's Information</legend>
                         <div class="row">
-                            <label for="father-name" class="form-label">Father Name</label>
+                            <label for="father-first-name" class="form-label">Father Name</label>
                             <div class="mb-3 col-sm-4">
-                                <input type="text" class="form-control" id="father-name" placeholder="First Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="father-first-name" placeholder="First Name"
+                                    >
+                                <span class="form-error" id="father-first-name-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
-                                <input type="text" class="form-control" id="father-name" placeholder="Middle Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="father-middle-name"
+                                    placeholder="Middle Name (Optional)">
+                                <span class="form-error" id="father-middle-name-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
-                                <input type="text" class="form-control" id="father-name" placeholder="Last Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="father-last-name" placeholder="Last Name"
+                                    >
+                                <span class="form-error" id="father-last-name-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-4">
                                 <label for="father-phone-number" class="form-label">Phone Number</label>
-                                <input type="number" class="form-control" id="father-phone-number"
-                                    placeholder="+91 1234567890" required="true" maxlength="10">
+                                <input type="tel" class="form-control" id="father-phone-number"
+                                    placeholder="+91 1234567890"  maxlength="14">
+                                <span class="form-error" id="father-phone-number-error"></span>
                             </div>
                             <div class="mb-3 col-sm-8">
                                 <label for="father-email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="father-email" placeholder="Email"
-                                    required="true">
+                                <input type="email" class="form-control" id="father-email" placeholder="Email" >
+                                <span class="form-error" id="father-email-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-12">
                                 <label for="father-occupation" class="form-label">Occupation</label>
                                 <input type="text" class="form-control" id="father-occupation" placeholder="Occupation"
-                                    required="true">
+                                    >
+                                <span class="form-error" id="father-occupation-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-12">
                                 <label for="father-address" class="form-label">Address</label>
-                                <textarea class="form-control" id="father-address" placeholder="Address"
-                                    required="true"></textarea>
+                                <textarea class="form-control" id="father-address" placeholder="Address"></textarea>
+                                <span class="form-error" id="father-address-error"></span>
                             </div>
                         </div>
                     </section>
                     <section id="mothers-information">
                         <legend>Mother's Information</legend>
                         <div class="row">
-                            <label for="mother-name" class="form-label">Mother Name</label>
+                            <label for="mother-first-name" class="form-label">Mother Name</label>
                             <div class="mb-3 col-sm-4">
-                                <input type="text" class="form-control" id="father-name" placeholder="First Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="mother-first-name" placeholder="First Name"
+                                    >
+                                <span class="form-error" id="mother-first-name-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
-                                <input type="text" class="form-control" id="father-name" placeholder="Middle Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="mother-middle-name"
+                                    placeholder="Middle Name (Optional)">
+                                <span class="form-error" id="mother-middle-name-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
-                                <input type="text" class="form-control" id="father-name" placeholder="Last Name"
-                                    required="true">
+                                <input type="text" class="form-control" id="mother-last-name" placeholder="Last Name"
+                                    >
+                                <span class="form-error" id="mother-last-name-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-4">
                                 <label for="mother-phone-number" class="form-label">Phone Number</label>
-                                <input type="number" class="form-control" id="mother-phone-number"
-                                    placeholder="+91 1234567890" required="true" maxlength="10">
+                                <input type="text" class="form-control" id="mother-phone-number"
+                                    placeholder="+91 1234567890"  maxlength="10">
+                                <span class="form-error" id="mother-phone-number-error"></span>
                             </div>
                             <div class="mb-3 col-sm-8">
                                 <label for="mother-email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="mother-email" placeholder="Email"
-                                    required="true">
+                                <input type="email" class="form-control" id="mother-email" placeholder="Email" >
+                                <span class="form-error" id="mother-email-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-12">
                                 <label for="mother-occupation" class="form-label">Occupation</label>
                                 <input type="text" class="form-control" id="mother-occupation" placeholder="Occupation"
-                                    required="true">
+                                    >
+                                <span class="form-error" id="mother-occupation-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-12">
                                 <label for="mother-address" class="form-label">Address</label>
-                                <textarea class="form-control" id="mother-address" placeholder="Address"
-                                    required="true"></textarea>
+                                <textarea class="form-control" id="mother-address" placeholder="Address"></textarea>
+                                <span class="form-error" id="mother-address-error"></span>
                             </div>
                         </div>
                     </section>
@@ -206,41 +213,44 @@
                         <div class="row">
                             <div class="mb-3 col-sm-4">
                                 <label for="house-no" class="form-label">House No.:</label>
-                                <input type="text" class="form-control" id="house-no" placeholder="House No."
-                                    required="true">
+                                <input type="text" class="form-control" id="house-no" placeholder="House No." >
+                                <span class="form-error" id="house-no-error"></span>
                             </div>
                             <div class="mb-3 col-sm-8">
                                 <label for="street" class="form-label">Street:</label>
-                                <input type="text" class="form-control" id="street" placeholder="Street"
-                                    required="true">
+                                <input type="text" class="form-control" id="street" placeholder="Street" >
+                                <span class="form-error" id="street-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-12">
-                                <label for="apartment" class="form-label">Apartment,suit (optional):</label>
+                                <label for="apartment" class="form-label">Apartment, suit (optional):</label>
                                 <input type="text" class="form-control" id="apartment"
-                                    placeholder="Apartment,suit (optional)">
+                                    placeholder="Apartment, suit (optional)">
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-8">
                                 <label for="city" class="form-label">City:</label>
-                                <input type="text" class="form-control" id="city" placeholder="City" required="true">
+                                <input type="text" class="form-control" id="city" placeholder="City" >
+                                <span class="form-error" id="city-error"></span>
                             </div>
                             <div class="mb-3 col-sm-4">
                                 <label for="postal-code" class="form-label">Postal Code:</label>
                                 <input type="text" class="form-control" id="postal-code" placeholder="Postal Code"
-                                    required="true">
+                                    >
+                                <span class="form-error" id="postal-code-error"></span>
                             </div>
                         </div>
                         <div class="row">
                             <div class="mb-3 col-sm-6">
                                 <label for="state" class="form-label">State:</label>
-                                <input type="text" class="form-control" id="state" placeholder="State" required="true">
+                                <input type="text" class="form-control" id="state" placeholder="State" >
+                                <span class="form-error" id="state-error"></span>
                             </div>
                             <div class="mb-3 col-sm-6">
                                 <label for="country" class="form-label">Country:</label>
-                                <select class="form-select" id="country" required="true">
+                                <select class="form-select" id="country" >
                                     <option value="india" selected>India</option>
                                     <option value="indonesia">Indonesia</option>
                                     <option value="pakistan">Pakistan</option>
@@ -248,6 +258,7 @@
                                     <option value="turkey">Turkey</option>
                                     <option value="iran">Iran</option>
                                 </select>
+                                <span class="form-error" id="country-error"></span>
                             </div>
                         </div>
                     </section>
@@ -263,21 +274,24 @@
                         <div class="row">
                             <div class="mb-1 col-sm-12">
                                 <div class="form-check">
-                                    <input type="checkbox" class="form-check-input" id="consent" required="true">
-                                    <label for="consent" class="form-check-label">I here by declare that all the
-                                        information provided is correct and complete best of my knowledge.</label>
+                                    <input type="checkbox" class="form-check-input" id="consent" required>
+                                    <label for="consent" class="form-check-label">I hereby declare that all the
+                                        information provided is correct and complete to the best of my
+                                        knowledge.</label>
+                                    <span class="form-error" id="consent-error"></span>
                                 </div>
                             </div>
                             <div class="mb-3 col-sm-12">
                                 <div class="form-check">
-                                    <input type="checkbox" class="form-check-input" id="terms-and-conditions"
-                                        required="true">
+                                    <input type="checkbox" class="form-check-input" id="terms-and-conditions" required>
                                     <label for="terms-and-conditions" class="form-check-label">I agree to <span
                                             class="text-primary">the terms and conditions</span></label>
+                                    <span class="form-error" id="terms-and-conditions-error"></span>
                                 </div>
                             </div>
                             <div class="mb-3 col-sm-12">
-                                <button class="btn btn-primary btn-success" id="submit-button" type="submit">Submit</button>
+                                <button class="btn btn-primary btn-success" id="submit-button"
+                                    type="submit">Submit</button>
                             </div>
                         </div>
                     </section>
@@ -294,12 +308,10 @@
         </div>
     </div>
 
-
     <!-- bootstrap js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
-
     <script src="script.js"></script>
 </body>
 
