@@ -224,7 +224,7 @@ section legend {
     }
 
     .sidebar-container.show {
-        position: fixed;
+        position: relative;
         display: flex;
         flex-direction: column;
         align-items: left;
