@@ -13,9 +13,11 @@ const form = document.getElementById('form');
 
 form.addEventListener('input', (e) => {
     e.preventDefault();
-    if (validateForm() || validateFatherInfo() || validateMotherInfo() || validateAddressInfo()) {
-        form.submit();
-    }
+    validatePersonalInfo();
+    validateFatherInfo();
+    validateMotherInfo();
+    validateAddressInfo();
+    validateTermsAndConditions();
 });
 
 form.addEventListener('submit', (e) => {
@@ -398,3 +400,36 @@ const validateAddressInfo = () => {
 
     return isValid;
 }
+
+// Terms and Conditions declaration
+const termsAndConditions = document.getElementById('terms-and-conditions');
+const consent = document.getElementById('consent');
+
+const termsAndConditionsError = document.getElementById('terms-and-conditions-error');
+const consentError = document.getElementById('consent-error');
+
+// Terms and Conditions validation
+const validateTermsAndConditions = () => {
+    let isValid = true;
+
+    // Terms and Conditions Validation
+    if (termsAndConditions.checked === false) {
+        termsAndConditionsError.innerHTML = 'Terms and conditions must be accepted';
+        termsAndConditionsError.style.display = 'block';
+        isValid = false;
+    } else {
+        termsAndConditionsError.style.display = 'none';
+    }
+
+    // Consent Validation
+    if (consent.checked === false) {
+        consentError.innerHTML = 'Consent must be accepted';
+        consentError.style.display = 'block';
+        isValid = false;
+    } else {
+        consentError.style.display = 'none';
+    }
+
+    return isValid;
+}
+
