@@ -1,0 +1,28 @@
+<!-- $ vs $() -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>jQuery Tutorial($ vs $())</title>
+  <script src="packages/node_modules/jquery/dist/jquery.js"></script>
+  <script>
+    $(document).ready(function(){
+      console.log("jQuery is ready!");
+    });
+
+    $(window).on("load", function() {
+      console.log("window is loaded!");
+    });
+
+    $(document).ready(function(){
+      $("h1").text("jQuery is ready!");
+    });
+  </script>
+</head>
+<body>
+  <iframe src="https://google.com" frameborder="0" name="iframe_example" id="iframe_example" title="iframe_example">
+  </iframe>
+  <h1></h1>
+</body>
+</html>

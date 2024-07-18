@@ -2,5 +2,10 @@
     "cSpell.words": [
         "boxicons",
         "Chandan"
-    ]
+    ],
+    "[html]": {
+        "files.autoSave": "afterDelay",
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false
+    }
 }
