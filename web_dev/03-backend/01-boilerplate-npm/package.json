@@ -7,8 +7,20 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KudaChan/DevLang/tree/main/web_dev/03-backend/boilerplate-npm.git"
+	},
 	"author": {
 		"name": "Chandan Kumar",
 		"email": "kumarnchandan05@gmail.com"
-	}
+	},
+	"description": "This project is the part of freeCodeCamp managing packages with NPM.",
+	"keywords": [
+		"freeCodeCamp",
+		"npm",
+		"package.json"
+	],
+	"license": "MIT",
+	"version": "1.0.0"
 }
