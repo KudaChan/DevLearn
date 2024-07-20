@@ -1,21 +1,27 @@
-const express = require('express')
-const app = express()
-const cors = require('cors')
-const mongoose = require('mongoose')
-// const { v4: uuidv4 } = require('uuid')
-const shortid = require('shortid')
-const bodyParser = require('body-parser')
-require('dotenv').config()
+const express = require('express');
+const app = express();
+const cors = require('cors');
+const mongoose = require('mongoose');
+const shortid = require('shortid');
+require('dotenv').config();
 
+// Middleware
+app.use(cors());
+app.use(express.static('public'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Connect to MongoDB
 mongoose.connect(process.env.DB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => {
-  console.log('Connected to MongoDB')
+  console.log('Connected to MongoDB');
 }).catch((err) => {
-  console.log('Failed to connect to MongoDB', err)
+  console.log('Failed to connect to MongoDB', err);
 });
 
+// Define Mongoose Schema and Model
 const exerciseTrackerSchema = new mongoose.Schema({
   _id: { type: String, default: shortid.generate() },
   username: String,
@@ -27,22 +33,16 @@ const exerciseTrackerSchema = new mongoose.Schema({
       date: { type: Date, default: Date.now }
     }
   ]
-})
+});
 
 const ExerciseTracker = mongoose.model('ExerciseTracker', exerciseTrackerSchema);
 
-app.use(cors());
-app.use(express.static('public'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
-
+// Serve the homepage
 app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/views/index.html')
+  res.sendFile(__dirname + '/views/index.html');
 });
 
-//mongoose functions
-
-//create and save a new user
+// Mongoose functions
 const createSaveUser = async (username) => {
   try {
     const newUser = new ExerciseTracker({
@@ -50,15 +50,14 @@ const createSaveUser = async (username) => {
       username: username,
       count: 0,
       log: []
-    })
+    });
     await newUser.save();
     return newUser;
   } catch (err) {
     throw err;
   }
-}
+};
 
-// get all users
 const getUsers = async () => {
   try {
     const users = await ExerciseTracker.find({});
@@ -68,7 +67,6 @@ const getUsers = async () => {
   }
 };
 
-// get user bu id
 const getUserById = async (id) => {
   try {
     const user = await ExerciseTracker.findById(id);
@@ -78,7 +76,6 @@ const getUserById = async (id) => {
   }
 };
 
-// add exercise to user
 const addExerciseToUser = async (id, description, duration, date) => {
   try {
     const user = await getUserById(id);
@@ -91,9 +88,7 @@ const addExerciseToUser = async (id, description, duration, date) => {
   }
 };
 
-
-
-// request handlers
+// Request handlers
 app.post("/api/users", (req, res) => {
   const username = req.body.username;
   createSaveUser(username)
@@ -110,8 +105,7 @@ app.post("/api/users", (req, res) => {
 
 app.post("/api/users/:_id/exercises", (req, res) => {
   const id = req.params._id;
-  const description = req.body.description;
-  const duration = req.body.duration;
+  const { description, duration } = req.body;
   let date = req.body.date;
 
   if (!date || isNaN(Date.parse(date))) {
@@ -126,7 +120,7 @@ app.post("/api/users/:_id/exercises", (req, res) => {
         username: data.username,
         description: data.log[data.log.length - 1].description,
         duration: data.log[data.log.length - 1].duration,
-        date: data.log[data.log.length - 1].date.toDateString('ddd MMM DD YYYY'),
+        date: data.log[data.log.length - 1].date.toDateString(),
         _id: data._id
       });
     })
@@ -169,7 +163,7 @@ app.get("/api/users/:_id/logs", async (req, res) => {
     let log = user.log.filter((exercise) => {
       const exerciseDate = new Date(exercise.date);
       return (!from || exerciseDate >= from) && (!to || exerciseDate <= to);
-    })
+    });
 
     if (limit) {
       limit = parseInt(limit);
@@ -180,19 +174,18 @@ app.get("/api/users/:_id/logs", async (req, res) => {
       username: user.username,
       count: log.length,
       _id: user._id,
-      log: log.map((log) => ({
-        description: log.description,
-        duration: log.duration,
-        date: log.date.toDateString('ddd MMM DD YYYY')
+      log: log.map((exercise) => ({
+        description: exercise.description,
+        duration: exercise.duration,
+        date: exercise.date.toDateString()
       }))
-    })
+    });
   } catch (err) {
     res.status(500).json({ error: 'Internal Server Error', message: err.message });
   }
 });
 
-
-
+// Start the server
 const listener = app.listen(process.env.PORT || 3000, () => {
-  console.log('Your app is listening on port ' + listener.address().port)
-})
+  console.log('Your app is listening on port ' + listener.address().port);
+});
