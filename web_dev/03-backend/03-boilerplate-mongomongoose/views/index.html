@@ -1,0 +1,33 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!-- You might want to try something fancier: -->
+<!-- html/nunjucks docs: http://mozilla.github.io/nunjucks/ -->
+<!-- jade: http://jade-lang.com/ -->
+<!-- haml: http://haml.info/tutorial.html -->
+<!-- hbs(handlebars): http://handlebarsjs.com/expressions.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Hello HTML</title>
+  <link rel="stylesheet" href="/public/style.css">
+</head>
+
+<body>
+  <h1>Hello, HTML.</h1>
+  <p>Enter your details below:</p>
+  <form action="/name" method="post">
+    <label>First Name :</label>
+    <input type="text" name="first" value="John" title="First Name" placeholder="First Name"><br>
+    <label>Last Name :</label>
+    <input type="text" name="last" value="Doe" title="Last Name" placeholder="Last Name"><br><br>
+    <input type="submit" value="Submit">
+  </form>
+</body>
+
+</html>
+
