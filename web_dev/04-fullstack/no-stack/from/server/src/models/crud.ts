@@ -38,7 +38,7 @@ const formSchema = new schema({
       country: { type: String, required: true },
    },
    additionalInfo: {
-      about: { type: String, required: true },
+      about: { type: String },
       declaration: { type: Boolean, required: true },
       consent: { type: Boolean, required: true },
    },
@@ -88,7 +88,6 @@ const saveForm = async (form: any) => {
             consent: form.consent,
          },
       });
-      console.log(formData);
       await formData.save();
       return formData;
    } catch (error) {

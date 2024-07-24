@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const formData = new FormData(form);
       const formObject = Object.fromEntries(formData.entries());
-      
+
       try {
          const response = await fetch('http://localhost:5000/form', {
             method: 'POST',
@@ -41,5 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
       } catch (error) {
          console.error('Error:', error);
       }
-   })
+   });
+
+
 });

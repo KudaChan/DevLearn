@@ -1,8 +1,8 @@
-import express, { Request, Response } from 'express';
-import dotenv from 'dotenv';
-import mongoose from 'mongoose';
-import cors from 'cors';
-import crud from './models/crud';
+import express, { Request, Response } from "express";
+import dotenv from "dotenv";
+import mongoose from "mongoose";
+import cors from "cors";
+import crud from "./models/crud";
 
 const api = express();
 dotenv.config();
@@ -10,15 +10,16 @@ api.use(cors());
 api.use(express.json());
 api.use(express.urlencoded({ extended: true }));
 
-const db = mongoose.connect(process.env.MONGO_URI as string)
-   .then(() => console.log('MongoDB connected'))
+const db = mongoose
+   .connect(process.env.MONGO_URI as string)
+   .then(() => console.log("MongoDB connected"))
    .catch((err) => console.log(err));
 
-api.get('/', (req: Request, res: Response) => {
-   res.json({ message: 'Hello World' });
+api.get("/", (req: Request, res: Response) => {
+   res.json({ message: "Hello World" });
 });
 
-api.post('/form', async (req: Request, res: Response) => {
+api.post("/form", async (req: Request, res: Response) => {
    // console.log('received post /form request');
    // console.log('Request body:', req.body);
    const formData = {
@@ -50,13 +51,13 @@ api.post('/form', async (req: Request, res: Response) => {
       about: req.body.about,
       declaration: req.body.declaration,
       consent: req.body.consent,
-   }
+   };
    try {
-      const data = await crud.saveForm(formData)
+      const data = await crud.saveForm(formData);
       const formId = data?._formId;
       res.json({ formId: formId });
    } catch (err) {
-      res.status(500).json({ message: 'Internal Server Error' });
+      res.status(500).json({ message: "Internal Server Error" });
    }
 });
 
@@ -69,7 +70,7 @@ api.post('/form', async (req: Request, res: Response) => {
 //    }
 // });
 
-api.get('/form/data', async (req: Request, res: Response) => {
+api.get("/form/data", async (req: Request, res: Response) => {
    const data = await crud.getForm();
    if (data) {
       const formData = data.map((item: any) => {
@@ -79,26 +80,25 @@ api.get('/form/data', async (req: Request, res: Response) => {
             lastName: item.personalInfo.lastName,
             mobileNumber: item.personalInfo.mobileNumber,
             email: item.personalInfo.email,
-         }
+         };
       });
       res.json({
          formData: formData,
          totalForms: data.length,
       });
    } else {
-      res.json({ message: 'No data found' });
+      res.json({ message: "No data found" });
    }
 });
 
-api.get('/form/data/:id', async (req: Request, res: Response) => {
-
+api.get("/form/data/:id", async (req: Request, res: Response) => {
    const { id } = req.params;
    try {
       const data = await crud.getFormById(id);
       if (data) {
          res.json(data);
       } else {
-         res.status(404).json({ message: 'Form not found' });
+         res.status(404).json({ message: "Form not found" });
       }
    } catch (err) {
       res.status(500).json({ error: err });
@@ -106,5 +106,5 @@ api.get('/form/data/:id', async (req: Request, res: Response) => {
 });
 
 api.listen(5000, () => {
-   console.log('Server is running on port 5000');
+   console.log("Server is running on port 5000");
 });

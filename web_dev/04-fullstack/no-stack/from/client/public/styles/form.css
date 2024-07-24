@@ -146,11 +146,17 @@ hr {
   background-color: rgba(128, 128, 128, 0.203);
 }
 
-.error {
+/* Existing styles... */
+
+/* .error {
+  border: 2px solid red;
+} */
+
+.error-message {
   color: red;
-  font-size: 0.8rem;
-  margin-top: 1px;
+  font-size: 0.875em;
   display: none;
+  /* Hide error messages by default */
 }
 
 .hamburger {
