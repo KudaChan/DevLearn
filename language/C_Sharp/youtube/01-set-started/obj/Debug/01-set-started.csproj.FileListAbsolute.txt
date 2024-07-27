@@ -1,0 +1,14 @@
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\bin\Debug\01-set-started.exe.config
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\bin\Debug\01-set-started.exe
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\bin\Debug\01-set-started.pdb
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\obj\Debug\01-set-started.csproj.AssemblyReference.cache
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\obj\Debug\01-set-started.csproj.CoreCompileInputs.cache
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\obj\Debug\01-set-started.exe
+D:\DevLang\language\C_Sharp\youtube\01-set-started\01-set-started\obj\Debug\01-set-started.pdb
+D:\DevLang\language\C_Sharp\youtube\01-set-started\bin\Debug\01-set-started.exe.config
+D:\DevLang\language\C_Sharp\youtube\01-set-started\bin\Debug\01-set-started.exe
+D:\DevLang\language\C_Sharp\youtube\01-set-started\bin\Debug\01-set-started.pdb
+D:\DevLang\language\C_Sharp\youtube\01-set-started\obj\Debug\01-set-started.csproj.AssemblyReference.cache
+D:\DevLang\language\C_Sharp\youtube\01-set-started\obj\Debug\01-set-started.csproj.CoreCompileInputs.cache
+D:\DevLang\language\C_Sharp\youtube\01-set-started\obj\Debug\01-set-started.exe
+D:\DevLang\language\C_Sharp\youtube\01-set-started\obj\Debug\01-set-started.pdb

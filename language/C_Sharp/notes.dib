@@ -1,0 +1,84 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+
+#!markdown
+
+# Getting Started with C#
+---
+
+#!markdown
+
+# Data Types
+---
+
+Data types are used to define the type of data a variable can hold.
+
+#!markdown
+
+## Numeric Data Types
+
+#!csharp
+
+int age = 20;
+Console.WriteLine(age);
+Console.WriteLine(int.MaxValue);
+Console.WriteLine(int.MinValue);
+
+long bigNumber = -9223372036854775808L;
+Console.WriteLine(bigNumber);
+Console.WriteLine(long.MaxValue);
+Console.WriteLine(long.MinValue);
+
+double pi = 3.14159265359D;
+Console.WriteLine(pi);
+Console.WriteLine(double.MaxValue);
+Console.WriteLine(double.MinValue);
+
+float piSingle = 3.14159265359F;
+Console.WriteLine(piSingle);
+Console.WriteLine(float.MaxValue);
+Console.WriteLine(float.MinValue);
+
+decimal bigDecimal = 79228162514264337593543950335M;
+Console.WriteLine(bigDecimal);
+Console.WriteLine(decimal.MaxValue);
+Console.WriteLine(decimal.MinValue);
+
+#!markdown
+
+##  Text Based Data Types
+
+#!csharp
+
+string name = "Chandan";
+Console.WriteLine(name);
+
+char letter = 'C';
+Console.WriteLine(letter);
+
+#!markdown
+
+## Converting string to number
+
+#!csharp
+
+string textAge = "23";
+int age = Convert.ToInt32(textAge);
+Console.WriteLine(age);
+
+string textBigNumber = "9223372036854775807";
+long bigNumber = Convert.ToInt64(textBigNumber);
+Console.WriteLine(bigNumber);
+
+string textPi = "3.14159265359";
+double pi = Convert.ToDouble(textPi);
+Console.WriteLine(pi);
+
+string textPiSingle = "3.14159265359";
+float piSingle = Convert.ToSingle(textPiSingle);
+Console.WriteLine(piSingle);
+
+string textBigDecimal = "79228162514264337593543950335";
+decimal bigDecimal = Convert.ToDecimal(textBigDecimal);
+Console.WriteLine(bigDecimal);
