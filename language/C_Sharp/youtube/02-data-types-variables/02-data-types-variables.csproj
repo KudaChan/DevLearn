@@ -7,7 +7,7 @@
     <ProjectGuid>{6047E14E-6F04-49CA-BF63-CD749249A46C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_02_data_types_variables</RootNamespace>
-    <AssemblyName>_02_data_types_variables</AssemblyName>
+    <AssemblyName>02-data-types-variables</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

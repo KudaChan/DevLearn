@@ -14,3 +14,4 @@ namespace _01_set_started
 }
 
 // Output: Hello World!
+// Press any key to exit...

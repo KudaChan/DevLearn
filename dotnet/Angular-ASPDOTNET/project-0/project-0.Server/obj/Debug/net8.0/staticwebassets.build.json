@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "UUq2diZORAg5RiR3+ulkuXTV/vbKkBJ7ySiEkzuxfd8=",
+  "Source": "project-0.Server",
+  "BasePath": "_content/project-0.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\DevLang\\dotnet\\Angular-ASPDOTNET\\project-0\\project-0.client\\project-0.client.esproj",
+      "Version": 2,
+      "Source": "project-0.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

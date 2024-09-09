@@ -10,6 +10,8 @@ namespace _02_data_types_variables
     {
         static void Main(string[] args)
         {
+            // Data Types
+
         }
     }
 }
